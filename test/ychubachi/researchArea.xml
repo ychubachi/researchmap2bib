@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?><feed xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rm="http://api.researchmap.jp/ns/" xml:lang="ja"><title>研究分野</title>
+<link rel="self" href="https://api.researchmap.jp/opensearch/user/ychubachi?type=researchArea&amp;display=item&amp;lang=japanese&amp;download=1&amp;_rm_user_id=6f234f960ab6142ef4b71dc48609f2df8e6bfbb1" />
+<updated>2016-08-23T11:16:31Z</updated>
+<author>
+	<name>中鉢　欣秀</name>
+</author>
+<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=researchArea&amp;display=item&amp;lang=japanese&amp;download=1&amp;_rm_user_id=6f234f960ab6142ef4b71dc48609f2df8e6bfbb1</id>
+	<opensearch:totalResults>3</opensearch:totalResults>
+	<opensearch:startIndex>1</opensearch:startIndex>
+	<opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+				<entry rm:type="researchArea" rm:disclose="public">
+		<title>情報学/計算機システム</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=researchArea&amp;dataid=2322145</id>
+		<link href="https://researchmap.jp?action=pages_view_main&amp;active_center=snsview_view_main_search_summary&amp;summary_id=09001003 13121101&amp;search_title=計算機システム" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<updated>2016-06-01T08:07:01Z</updated>
+		<rm:field>
+			<id>13120000</id>
+			<name>情報学</name>
+			<rm:summaryid>09001000 13120000</rm:summaryid>
+			<rm:count>2182</rm:count>
+		</rm:field>
+		<rm:subject>
+			<id>13121101</id>
+			<name>計算機システム</name>
+			<rm:summaryid>09001003 13121101</rm:summaryid>
+			<rm:count>162</rm:count>
+		</rm:subject>
+		<summary></summary>
+		<rm:syncid>2322147</rm:syncid>
+	</entry>
+				<entry rm:type="researchArea" rm:disclose="public">
+		<title>情報学/ソフトウェア</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=researchArea&amp;dataid=2322141</id>
+		<link href="https://researchmap.jp?action=pages_view_main&amp;active_center=snsview_view_main_search_summary&amp;summary_id=09001002 13121102&amp;search_title=ソフトウェア" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<updated>2016-06-01T08:07:44Z</updated>
+		<rm:field>
+			<id>13120000</id>
+			<name>情報学</name>
+			<rm:summaryid>09001000 13120000</rm:summaryid>
+			<rm:count>2182</rm:count>
+		</rm:field>
+		<rm:subject>
+			<id>13121102</id>
+			<name>ソフトウェア</name>
+			<rm:summaryid>09001002 13121102</rm:summaryid>
+			<rm:count>209</rm:count>
+		</rm:subject>
+		<summary>ソフトウェア開発方法論</summary>
+		<rm:syncid>2322143</rm:syncid>
+	</entry>
+				<entry rm:type="researchArea" rm:disclose="public">
+		<title>科学教育・教育工学/教育工学</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=researchArea&amp;dataid=1072281</id>
+		<link href="https://researchmap.jp?action=pages_view_main&amp;active_center=snsview_view_main_search_summary&amp;summary_id=09001602&amp;search_title=教育工学" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<updated>2013-02-01T09:04:52Z</updated>
+		<rm:field>
+			<id>09001600</id>
+			<name>科学教育・教育工学</name>
+			<rm:summaryid>09001600</rm:summaryid>
+			<rm:count>4093</rm:count>
+		</rm:field>
+		<rm:subject>
+			<id>09001602</id>
+			<name>教育工学</name>
+			<rm:summaryid>09001602</rm:summaryid>
+			<rm:count>1736</rm:count>
+		</rm:subject>
+		<summary></summary>
+		<rm:syncid>1072282</rm:syncid>
+	</entry>
+</feed>

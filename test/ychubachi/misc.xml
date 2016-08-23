@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?><feed xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rm="http://api.researchmap.jp/ns/" xml:lang="ja"><title>Misc</title>
+<link rel="self" href="https://api.researchmap.jp/opensearch/user/ychubachi?type=misc&amp;display=item&amp;lang=japanese&amp;download=1&amp;_rm_user_id=6f234f960ab6142ef4b71dc48609f2df8e6bfbb1" />
+<updated>2016-08-23T11:16:31Z</updated>
+<author>
+	<name>中鉢　欣秀</name>
+</author>
+<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=misc&amp;display=item&amp;lang=japanese&amp;download=1&amp;_rm_user_id=6f234f960ab6142ef4b71dc48609f2df8e6bfbb1</id>
+	<opensearch:totalResults>1</opensearch:totalResults>
+	<opensearch:startIndex>1</opensearch:startIndex>
+	<opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+		<entry rm:type="misc" rm:disclose="public">
+		<title>デ-タスタジアムの開発--大学とベンチャ-企業のコラボレ-ション</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=misc&amp;dataid=29543755</id>
+				<link href="http://ci.nii.ac.jp/naid/40000002389" />
+		<author>
+			<name>中鉢 欣秀, 大岩 元</name>
+		</author>
+		<summary></summary>
+		<updated>2016-05-21T06:56:08Z</updated>
+		<rm:journal>Bit</rm:journal>
+		<rm:publisher>共立出版</rm:publisher>
+		<rm:publicationName>Bit</rm:publicationName>
+		<rm:volume>30</rm:volume>
+		<rm:number>4</rm:number>
+		<rm:startingPage>14</rm:startingPage>
+		<rm:endingPage>21</rm:endingPage>
+		<rm:publicationDate>19980400</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:miscType>
+			<id>0</id>
+			<name></name>
+		</rm:miscType>
+		<rm:issn>03856984</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>40000002389</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/40000002389" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>0</rm:syncid>
+	</entry>
+</feed>

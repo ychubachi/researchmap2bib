@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?><feed xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rm="http://api.researchmap.jp/ns/" xml:lang="ja"><title>基本項目</title>
+<link rel="self" href="https://api.researchmap.jp/opensearch/user/ychubachi?type=basic&amp;display=item&amp;lang=japanese&amp;download=1&amp;_rm_user_id=6f234f960ab6142ef4b71dc48609f2df8e6bfbb1" />
+<updated>2016-08-23T11:16:30Z</updated>
+<author>
+	<name>中鉢　欣秀</name>
+</author>
+<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=basic&amp;display=item&amp;lang=japanese&amp;download=1&amp;_rm_user_id=6f234f960ab6142ef4b71dc48609f2df8e6bfbb1</id>
+<entry rm:type="basic">
+	<title>中鉢　欣秀</title>
+	<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=basic</id>
+	<link href="https://researchmap.jp/ychubachi" />
+	<author xml:lang="ja">
+		<name>中鉢　欣秀</name>
+				<rm:nameKana rm:disclose="public">チユウバチ　ヨシヒデ</rm:nameKana>
+						<rm:anotherName rm:disclose="public"></rm:anotherName>
+			</author>
+	<author xml:lang="en">
+		<name>Chubachi Yoshihide</name>
+				<rm:anotherName rm:disclose="public"></rm:anotherName>
+			</author>
+		<content type="text" rm:disclose="public">1997年合資会社ニューメリック設立．</content>
+		<published >2013-02-01T09:04:50Z</published>
+	<updated>2016-08-22T03:19:58Z</updated>
+		<rm:image rm:disclose="public">https://researchmap.jp/?action=common_download_user&amp;upload_id=113546</rm:image>
+			<rm:handle rm:disclose="researcher">中鉢欣秀</rm:handle>
+			<rm:email rm:disclose="researcher" rm:reception="receive">yc@aiit.ac.jp</rm:email>
+			<rm:otherEmail rm:disclose="private" ></rm:otherEmail>
+			<rm:mobileEmail rm:disclose="private" ></rm:mobileEmail>
+			<rm:gender rm:disclose="researcher">m</rm:gender>
+			<rm:birthDate rm:disclose="private">19720120</rm:birthDate>
+			<rm:deathDate rm:disclose="public"></rm:deathDate>
+			<rm:affiliation rm:disclose="public">
+		<id>1509000000</id>
+		<name>産業技術大学院大学</name>
+	</rm:affiliation>
+			<rm:section rm:disclose="public">産業技術研究科</rm:section>
+			<rm:job rm:disclose="public">准教授</rm:job>
+						<rm:degree rm:disclose="public">
+			<name>博士（政策・メディア）</name>
+			<rm:organization>慶應義塾大学</rm:organization>
+		</rm:degree>
+					<rm:url rm:disclose="public">http://kaken.nii.ac.jp/d/r/80398643.ja.html</rm:url>
+			<rm:kakenid rm:disclose="private">80398643</rm:kakenid>
+			<rm:twitterid rm:disclose="private"></rm:twitterid>
+			<rm:googleuaid rm:disclose="private"></rm:googleuaid>
+			<rm:orcidid rm:disclose="private"></rm:orcidid>
+					<rm:otherAffiliation rm:disclose="public"></rm:otherAffiliation>
+				<rm:whatsnewPeriod rm:disclose="public" >10</rm:whatsnewPeriod>
+			<rm:eradid>80398643</rm:eradid>
+		<rm:rmid>6f234f960ab6142ef4b71dc48609f2df8e6bfbb1</rm:rmid>
+	<rm:readid>B000226974</rm:readid>
+</entry>
+</feed>

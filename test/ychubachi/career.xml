@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?><feed xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rm="http://api.researchmap.jp/ns/" xml:lang="ja"><title>経歴</title>
+<link rel="self" href="https://api.researchmap.jp/opensearch/user/ychubachi?type=career&amp;display=item&amp;lang=japanese&amp;download=1&amp;_rm_user_id=6f234f960ab6142ef4b71dc48609f2df8e6bfbb1" />
+<updated>2016-08-23T11:16:30Z</updated>
+<author>
+	<name>中鉢　欣秀</name>
+</author>
+<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=career&amp;display=item&amp;lang=japanese&amp;download=1&amp;_rm_user_id=6f234f960ab6142ef4b71dc48609f2df8e6bfbb1</id>
+	<opensearch:totalResults>3</opensearch:totalResults>
+	<opensearch:startIndex>1</opensearch:startIndex>
+	<opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+		<entry rm:type="career" rm:disclose="public">
+				<title>産業技術大学院大学（准教授）</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=career&amp;dataid=1335310</id>
+		<link href="https://researchmap.jp/ychubachi#career" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<updated>2016-07-24T10:24:41Z</updated>
+		<rm:fromDate>20060400</rm:fromDate>
+		<rm:toDate>99990000</rm:toDate>
+		<rm:affiliation>産業技術大学院大学</rm:affiliation>
+		<rm:section>情報アーキテクチャ専攻</rm:section>
+		<rm:job>准教授</rm:job>
+		<rm:syncid>0</rm:syncid>
+	</entry>
+		<entry rm:type="career" rm:disclose="public">
+				<title>科学技術振興機構（JST）（ PD級研究員）</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=career&amp;dataid=3865939</id>
+		<link href="https://researchmap.jp/ychubachi#career" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<updated>2016-07-24T10:26:22Z</updated>
+		<rm:fromDate>20050400</rm:fromDate>
+		<rm:toDate>20060300</rm:toDate>
+		<rm:affiliation>科学技術振興機構（JST）</rm:affiliation>
+		<rm:section></rm:section>
+		<rm:job> PD級研究員</rm:job>
+		<rm:syncid>0</rm:syncid>
+	</entry>
+		<entry rm:type="career" rm:disclose="public">
+				<title>合資会社ニューメリック（無限責任社員）</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=career&amp;dataid=3865941</id>
+		<link href="https://researchmap.jp/ychubachi#career" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<updated>2016-07-24T10:27:23Z</updated>
+		<rm:fromDate>19971100</rm:fromDate>
+		<rm:toDate>20050300</rm:toDate>
+		<rm:affiliation>合資会社ニューメリック</rm:affiliation>
+		<rm:section></rm:section>
+		<rm:job>無限責任社員</rm:job>
+		<rm:syncid>0</rm:syncid>
+	</entry>
+</feed>

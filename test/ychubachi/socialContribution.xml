@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?><feed xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rm="http://api.researchmap.jp/ns/" xml:lang="ja"><title>社会貢献活動</title>
+<link rel="self" href="https://api.researchmap.jp/opensearch/user/ychubachi?type=socialContribution&amp;display=item&amp;lang=japanese&amp;download=1&amp;_rm_user_id=6f234f960ab6142ef4b71dc48609f2df8e6bfbb1" />
+<updated>2016-08-23T11:16:31Z</updated>
+<author>
+	<name>中鉢　欣秀</name>
+</author>
+<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=socialContribution&amp;display=item&amp;lang=japanese&amp;download=1&amp;_rm_user_id=6f234f960ab6142ef4b71dc48609f2df8e6bfbb1</id>
+	<opensearch:totalResults>1</opensearch:totalResults>
+	<opensearch:startIndex>1</opensearch:startIndex>
+	<opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+		<entry rm:type="socialContribution" rm:disclose="public">
+		<title>アプリ開発方法論</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=socialContribution&amp;dataid=38951</id>
+		<link href="http://www.pref.kochi.lg.jp/soshiki/141701/2016051300035.html" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<updated>2016-06-05T12:50:33Z</updated>
+		<summary>アプリ市場の現状やマネタイズ手法や、開発方法論について学べます。さらに、県内でゲームやWebサービス等のアプリ開発を手掛ける企業から、現場で使われているプログラミング言語・開発環境やその学習方法等について学ぶことができ、受講後の学習の効率化に寄与します。</summary>
+		<rm:role>
+			<id>10</id>
+			<name>講師</name>
+		</rm:role>
+		<rm:promoter>平成28年度土佐まるごとビジネスアカデミー（略称：土佐MBA）</rm:promoter>
+		<rm:event>アプリ開発人材育成講座＜基礎編＞</rm:event>
+		<rm:fromDate>20160611</rm:fromDate>
+		<rm:toDate></rm:toDate>
+		<rm:location>高知市産学官民連携センター</rm:location>
+		<rm:eventType>
+			<id>5</id>
+			<name>セミナー・ワークショップ</name>
+		</rm:eventType>
+		<rm:target>
+			<id>10</id>
+			<name>学術団体</name>
+		</rm:target>
+		<rm:syncid>0</rm:syncid>
+	</entry>
+</feed>

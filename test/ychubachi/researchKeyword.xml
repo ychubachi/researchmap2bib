@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?><feed xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rm="http://api.researchmap.jp/ns/" xml:lang="ja"><title>研究キーワード</title>
+<link rel="self" href="https://api.researchmap.jp/opensearch/user/ychubachi?type=researchKeyword&amp;display=item&amp;lang=japanese&amp;download=1&amp;_rm_user_id=6f234f960ab6142ef4b71dc48609f2df8e6bfbb1" />
+<updated>2016-08-23T11:16:31Z</updated>
+<author>
+	<name>中鉢　欣秀</name>
+</author>
+<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=researchKeyword&amp;display=item&amp;lang=japanese&amp;download=1&amp;_rm_user_id=6f234f960ab6142ef4b71dc48609f2df8e6bfbb1</id>
+	<opensearch:totalResults>7</opensearch:totalResults>
+	<opensearch:startIndex>1</opensearch:startIndex>
+	<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+			<entry rm:type="researchKeyword" rm:disclose="public">
+		<title>環境情報学</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=researchKeyword&amp;dataid=2235514</id>
+		<link href="https://researchmap.jp?action=pages_view_main&amp;active_center=snsview_view_main_search_summary&amp;summary_id=154577&amp;search_title=環境情報学" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<updated>2014-04-29T10:38:33Z</updated>
+		<rm:summary>
+			<rm:summaryid>154577</rm:summaryid>
+			<rm:count>7</rm:count>
+		</rm:summary>
+		<rm:dictionary>
+			<rm:dictionaryid>0</rm:dictionaryid>
+			<rm:count>0</rm:count>
+		</rm:dictionary>
+		<rm:syncid>0</rm:syncid>
+	</entry>
+			<entry rm:type="researchKeyword" rm:disclose="public">
+		<title>ソフトウェア開発方法論</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=researchKeyword&amp;dataid=4095391</id>
+		<link href="https://researchmap.jp?action=pages_view_main&amp;active_center=snsview_view_main_search_summary&amp;summary_id=198092&amp;search_title=ソフトウェア開発方法論" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<updated>2016-05-21T07:19:07Z</updated>
+		<rm:summary>
+			<rm:summaryid>198092</rm:summaryid>
+			<rm:count>3</rm:count>
+		</rm:summary>
+		<rm:dictionary>
+			<rm:dictionaryid>0</rm:dictionaryid>
+			<rm:count>0</rm:count>
+		</rm:dictionary>
+		<rm:syncid>4095393</rm:syncid>
+	</entry>
+			<entry rm:type="researchKeyword" rm:disclose="public">
+		<title>情報システム</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=researchKeyword&amp;dataid=1462840</id>
+		<link href="https://researchmap.jp?action=pages_view_main&amp;active_center=snsview_view_main_search_summary&amp;summary_id=1078&amp;search_title=情報システム" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<updated>2014-04-29T10:38:33Z</updated>
+		<rm:summary>
+			<rm:summaryid>1078</rm:summaryid>
+			<rm:count>181</rm:count>
+		</rm:summary>
+		<rm:dictionary>
+			<rm:dictionaryid>0</rm:dictionaryid>
+			<rm:count>1</rm:count>
+		</rm:dictionary>
+		<rm:syncid>0</rm:syncid>
+	</entry>
+			<entry rm:type="researchKeyword" rm:disclose="public">
+		<title>モデリング</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=researchKeyword&amp;dataid=1462839</id>
+		<link href="https://researchmap.jp?action=pages_view_main&amp;active_center=snsview_view_main_search_summary&amp;summary_id=3277&amp;search_title=モデリング" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<updated>2014-04-29T10:38:33Z</updated>
+		<rm:summary>
+			<rm:summaryid>3277</rm:summaryid>
+			<rm:count>84</rm:count>
+		</rm:summary>
+		<rm:dictionary>
+			<rm:dictionaryid>0</rm:dictionaryid>
+			<rm:count>0</rm:count>
+		</rm:dictionary>
+		<rm:syncid>0</rm:syncid>
+	</entry>
+			<entry rm:type="researchKeyword" rm:disclose="public">
+		<title>教育工学</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=researchKeyword&amp;dataid=1462838</id>
+		<link href="https://researchmap.jp?action=pages_view_main&amp;active_center=snsview_view_main_search_summary&amp;summary_id=1326&amp;search_title=教育工学" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<updated>2014-04-29T10:38:33Z</updated>
+		<rm:summary>
+			<rm:summaryid>1326</rm:summaryid>
+			<rm:count>621</rm:count>
+		</rm:summary>
+		<rm:dictionary>
+			<rm:dictionaryid>0</rm:dictionaryid>
+			<rm:count>1</rm:count>
+		</rm:dictionary>
+		<rm:syncid>0</rm:syncid>
+	</entry>
+			<entry rm:type="researchKeyword" rm:disclose="public">
+		<title>分散協調教育システム</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=researchKeyword&amp;dataid=1462837</id>
+		<link href="https://researchmap.jp?action=pages_view_main&amp;active_center=snsview_view_main_search_summary&amp;summary_id=232693&amp;search_title=分散協調教育システム" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<updated>2014-04-29T10:38:33Z</updated>
+		<rm:summary>
+			<rm:summaryid>232693</rm:summaryid>
+			<rm:count>3</rm:count>
+		</rm:summary>
+		<rm:dictionary>
+			<rm:dictionaryid>0</rm:dictionaryid>
+			<rm:count>0</rm:count>
+		</rm:dictionary>
+		<rm:syncid>0</rm:syncid>
+	</entry>
+			<entry rm:type="researchKeyword" rm:disclose="public">
+		<title>遠隔教育</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=researchKeyword&amp;dataid=1462836</id>
+		<link href="https://researchmap.jp?action=pages_view_main&amp;active_center=snsview_view_main_search_summary&amp;summary_id=1234&amp;search_title=遠隔教育" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<updated>2014-04-29T10:38:33Z</updated>
+		<rm:summary>
+			<rm:summaryid>1234</rm:summaryid>
+			<rm:count>76</rm:count>
+		</rm:summary>
+		<rm:dictionary>
+			<rm:dictionaryid>0</rm:dictionaryid>
+			<rm:count>1</rm:count>
+		</rm:dictionary>
+		<rm:syncid>0</rm:syncid>
+	</entry>
+</feed>

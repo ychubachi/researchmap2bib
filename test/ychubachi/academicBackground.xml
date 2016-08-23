@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?><feed xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rm="http://api.researchmap.jp/ns/" xml:lang="ja"><title>学歴</title>
+<link rel="self" href="https://api.researchmap.jp/opensearch/user/ychubachi?type=academicBackground&amp;display=item&amp;lang=japanese&amp;download=1&amp;_rm_user_id=6f234f960ab6142ef4b71dc48609f2df8e6bfbb1" />
+<updated>2016-08-23T11:16:30Z</updated>
+<author>
+	<name>中鉢　欣秀</name>
+</author>
+<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=academicBackground&amp;display=item&amp;lang=japanese&amp;download=1&amp;_rm_user_id=6f234f960ab6142ef4b71dc48609f2df8e6bfbb1</id>
+	<opensearch:totalResults>3</opensearch:totalResults>
+	<opensearch:startIndex>1</opensearch:startIndex>
+	<opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+		<entry rm:type="academicBackground" rm:disclose="public">
+		<title>慶應義塾大学大学院</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=academicBackground&amp;dataid=2264229</id>
+		<link href="https://researchmap.jp/ychubachi#academicBackground" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<updated>2016-07-24T10:30:32Z</updated>
+		<rm:departmentName>政策・メディア研究科</rm:departmentName>
+		<rm:subjectName>博士課程</rm:subjectName>
+		<rm:country></rm:country>
+		<rm:fromDate>19971000</rm:fromDate>
+		<rm:toDate>20050000</rm:toDate>
+		<rm:syncid>0</rm:syncid>
+	</entry>
+		<entry rm:type="academicBackground" rm:disclose="public">
+		<title>慶應義塾大学大学院</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=academicBackground&amp;dataid=2264227</id>
+		<link href="https://researchmap.jp/ychubachi#academicBackground" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<updated>2016-07-24T10:29:30Z</updated>
+		<rm:departmentName>政策・メディア研究科</rm:departmentName>
+		<rm:subjectName>修士課程</rm:subjectName>
+		<rm:country></rm:country>
+		<rm:fromDate>19951000</rm:fromDate>
+		<rm:toDate>19970900</rm:toDate>
+		<rm:syncid>0</rm:syncid>
+	</entry>
+		<entry rm:type="academicBackground" rm:disclose="public">
+		<title>慶應義塾大学</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=academicBackground&amp;dataid=2264225</id>
+		<link href="https://researchmap.jp/ychubachi#academicBackground" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<updated>2016-07-24T10:28:28Z</updated>
+		<rm:departmentName>環境情報学部</rm:departmentName>
+		<rm:subjectName></rm:subjectName>
+		<rm:country></rm:country>
+		<rm:fromDate>19920400</rm:fromDate>
+		<rm:toDate>19950900</rm:toDate>
+		<rm:syncid>0</rm:syncid>
+	</entry>
+</feed>

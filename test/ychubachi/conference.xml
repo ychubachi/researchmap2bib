@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?><feed xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rm="http://api.researchmap.jp/ns/" xml:lang="ja"><title>講演・口頭発表等</title>
+<link rel="self" href="https://api.researchmap.jp/opensearch/user/ychubachi?type=conference&amp;display=item&amp;lang=japanese&amp;download=1&amp;_rm_user_id=6f234f960ab6142ef4b71dc48609f2df8e6bfbb1" />
+<updated>2016-08-23T11:16:31Z</updated>
+<author>
+	<name>中鉢　欣秀</name>
+</author>
+<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=conference&amp;display=item&amp;lang=japanese&amp;download=1&amp;_rm_user_id=6f234f960ab6142ef4b71dc48609f2df8e6bfbb1</id>
+	<opensearch:totalResults>7</opensearch:totalResults>
+	<opensearch:startIndex>1</opensearch:startIndex>
+	<opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+		<entry rm:type="conference" rm:disclose="public">
+		<title>プロダクトバックログを用いた要求の取り扱い</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=conference&amp;dataid=23673911</id>
+				<link href="https://researchmap.jp/ychubachi#conference" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<summary></summary>
+		<updated>2016-05-21T08:14:10Z</updated>
+		<rm:journal>要求工学ワーキンググループワークショップ in 高崎</rm:journal>
+		<rm:publicationDate>20160519</rm:publicationDate>
+				<rm:language>ja</rm:language>
+		<rm:conferenceClass>国内会議</rm:conferenceClass>
+		<rm:conferenceType>
+			<id>1</id>
+			<name>口頭発表（一般）</name>
+		</rm:conferenceType>
+		<rm:promoter>情報処理学会ソフトウェア工学研究会(SIGSE)</rm:promoter>
+		<rm:venue>高崎</rm:venue>
+				<rm:syncid>0</rm:syncid>
+	</entry>
+		<entry rm:type="conference" rm:disclose="public">
+		<title>アジャイルソフトウェア開発における概念モデルの可能性</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=conference&amp;dataid=23673957</id>
+				<link href="https://researchmap.jp/ychubachi#conference" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<summary></summary>
+		<updated>2016-05-21T08:15:35Z</updated>
+		<rm:journal>要求工学ワーキンググループワークショップ in 姫路</rm:journal>
+		<rm:publicationDate>20151029</rm:publicationDate>
+				<rm:language>ja</rm:language>
+		<rm:conferenceClass>国内会議</rm:conferenceClass>
+		<rm:conferenceType>
+			<id>1</id>
+			<name>口頭発表（一般）</name>
+		</rm:conferenceType>
+		<rm:promoter>情報処理学会ソフトウェア工学研究会(SIGSE)</rm:promoter>
+		<rm:venue>姫路</rm:venue>
+				<rm:syncid>0</rm:syncid>
+	</entry>
+		<entry rm:type="conference" rm:disclose="public">
+		<title>アジャイル教材製作スタジオの構築</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=conference&amp;dataid=24450597</id>
+				<link href="https://researchmap.jp/ychubachi#conference" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<summary></summary>
+		<updated>2016-06-23T13:37:45Z</updated>
+		<rm:journal>日本e-Learning学会　第17回学術講演会</rm:journal>
+		<rm:publicationDate>20150227</rm:publicationDate>
+				<rm:language>ja</rm:language>
+		<rm:conferenceClass>国内会議</rm:conferenceClass>
+		<rm:conferenceType>
+			<id>1</id>
+			<name>口頭発表（一般）</name>
+		</rm:conferenceType>
+		<rm:promoter>日本e-Learning学会</rm:promoter>
+		<rm:venue>東京都品川区</rm:venue>
+				<rm:syncid>0</rm:syncid>
+	</entry>
+		<entry rm:type="conference" rm:disclose="public">
+		<title>クラウドと仮想化技術を用いたWebアプリケーション開発演習環境</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=conference&amp;dataid=24450589</id>
+				<link href="https://researchmap.jp/ychubachi#conference" />
+		<author>
+			<name>中鉢　欣秀，小山 裕司</name>
+		</author>
+		<summary></summary>
+		<updated>2016-06-23T13:00:13Z</updated>
+		<rm:journal>PCカンファレンス北海道2013</rm:journal>
+		<rm:publicationDate>20131103</rm:publicationDate>
+				<rm:language>ja</rm:language>
+		<rm:conferenceClass>国内会議</rm:conferenceClass>
+		<rm:conferenceType>
+			<id>1</id>
+			<name>口頭発表（一般）</name>
+		</rm:conferenceType>
+		<rm:promoter></rm:promoter>
+		<rm:venue>北海道札幌市</rm:venue>
+				<rm:syncid>0</rm:syncid>
+	</entry>
+		<entry rm:type="conference" rm:disclose="public">
+		<title>目的／手段展開に基づくソフトウェアアーキテクチャの仕様化</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=conference&amp;dataid=23774567</id>
+				<link href="https://researchmap.jp/ychubachi#conference" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<summary></summary>
+		<updated>2016-06-03T07:19:03Z</updated>
+		<rm:journal>要求工学ワーキンググループ ワークショップ</rm:journal>
+		<rm:publicationDate>20110624</rm:publicationDate>
+				<rm:language>ja</rm:language>
+		<rm:conferenceClass>国内会議</rm:conferenceClass>
+		<rm:conferenceType>
+			<id>1</id>
+			<name>口頭発表（一般）</name>
+		</rm:conferenceType>
+		<rm:promoter></rm:promoter>
+		<rm:venue></rm:venue>
+				<rm:syncid>0</rm:syncid>
+	</entry>
+		<entry rm:type="conference" rm:disclose="public">
+		<title>ワークショップ実行委員長業務のSBVA法による要求分析</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=conference&amp;dataid=23774581</id>
+				<link href="https://researchmap.jp/ychubachi#conference" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<summary></summary>
+		<updated>2016-06-03T07:33:10Z</updated>
+		<rm:journal>要求工学ワーキンググループ ワークショップ</rm:journal>
+		<rm:publicationDate>20100617</rm:publicationDate>
+				<rm:language>ja</rm:language>
+		<rm:conferenceClass>国内会議</rm:conferenceClass>
+		<rm:conferenceType>
+			<id>1</id>
+			<name>口頭発表（一般）</name>
+		</rm:conferenceType>
+		<rm:promoter></rm:promoter>
+		<rm:venue>礼文島</rm:venue>
+				<rm:syncid>0</rm:syncid>
+	</entry>
+		<entry rm:type="conference" rm:disclose="public">
+		<title>ICT-based Learning System of AIIT for the professional education in Japan</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=conference&amp;dataid=23774569</id>
+				<link href="https://researchmap.jp/ychubachi#conference" />
+		<author>
+			<name>Shintaro Ishijima, Hiroshi Koyama, Yoshihide Chubachi, Fumio Harashima</name>
+		</author>
+		<summary></summary>
+		<updated>2016-06-03T07:24:44Z</updated>
+		<rm:journal>9th International Conference on Information Technology Based Higher Education and Training (ITHET 2010)</rm:journal>
+		<rm:publicationDate>20100429</rm:publicationDate>
+				<rm:language>en</rm:language>
+		<rm:conferenceClass>国際会議</rm:conferenceClass>
+		<rm:conferenceType>
+			<id>2</id>
+			<name>口頭発表（招待・特別）</name>
+		</rm:conferenceType>
+		<rm:promoter></rm:promoter>
+		<rm:venue></rm:venue>
+				<rm:syncid>23774571</rm:syncid>
+	</entry>
+</feed>

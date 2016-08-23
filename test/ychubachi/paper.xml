@@ -1,0 +1,2361 @@
+<?xml version="1.0" encoding="UTF-8" ?><feed xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rm="http://api.researchmap.jp/ns/" xml:lang="ja"><title>論文</title>
+<link rel="self" href="https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;display=item&amp;lang=japanese&amp;download=1&amp;_rm_user_id=6f234f960ab6142ef4b71dc48609f2df8e6bfbb1" />
+<updated>2016-08-23T11:16:31Z</updated>
+<author>
+	<name>中鉢　欣秀</name>
+</author>
+<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;display=item&amp;lang=japanese&amp;download=1&amp;_rm_user_id=6f234f960ab6142ef4b71dc48609f2df8e6bfbb1</id>
+	<opensearch:totalResults>72</opensearch:totalResults>
+	<opensearch:startIndex>1</opensearch:startIndex>
+	<opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>AIIT における実践的 Scrum 技術者教育の取り組み</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=23356491</id>
+				<link href="https://researchmap.jp/ychubachi#paper" />
+		<author>
+			<name>中鉢 欣秀</name>
+		</author>
+		<summary></summary>
+		<updated>2016-08-22T03:18:54Z</updated>
+		<rm:journal>日本ソフトウェア科学会第 33 回大会 (2016 年度 ) 講演論文集（予定）</rm:journal>
+		<rm:publisher></rm:publisher>
+		<rm:publicationName></rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number></rm:number>
+		<rm:startingPage></rm:startingPage>
+		<rm:endingPage></rm:endingPage>
+		<rm:publicationDate>20160900</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>4</id>
+			<name>研究論文（研究会，シンポジウム資料等）</name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid></rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="" />
+		<rm:url href="" />
+		<rm:nrid></rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>0</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>アジャイル技術者育成のための開発方法論教育</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=19758997</id>
+				<link href="https://researchmap.jp/ychubachi#paper" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<summary></summary>
+		<updated>2016-06-23T13:48:47Z</updated>
+		<rm:journal>教育システム情報学会全国大会予稿集（予定）</rm:journal>
+		<rm:publisher></rm:publisher>
+		<rm:publicationName></rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number></rm:number>
+		<rm:startingPage></rm:startingPage>
+		<rm:endingPage></rm:endingPage>
+		<rm:publicationDate>20160000</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>4</id>
+			<name>研究論文（研究会，シンポジウム資料等）</name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid></rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="" />
+		<rm:url href="" />
+		<rm:nrid></rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>0</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>アジャイル教材製作スタジオの構築とその有用性</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18454017</id>
+				<link href="https://researchmap.jp/ychubachi#paper" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<summary>大学においてもブレンデッドラーニングやアクティブラーニングといった新しい授業形態が求められるようになった．このような中，大学の教員が動画によるオリジナルコンテンツを作成することが増えてきた．本研究では動画コンテンツを迅速（アジャイル）に製作することができる「アジャイル教材製作スタジオ」を構築した．本論文ではその有用性について述べる．</summary>
+		<updated>2016-05-23T08:07:05Z</updated>
+		<rm:journal>産業技術大学院大学紀要</rm:journal>
+		<rm:publisher></rm:publisher>
+		<rm:publicationName></rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number>9</rm:number>
+		<rm:startingPage>55</rm:startingPage>
+		<rm:endingPage>60</rm:endingPage>
+		<rm:publicationDate>20151200</rm:publicationDate>
+					<rm:referee />
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>3</id>
+			<name>研究論文（大学，研究機関紀要）</name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid></rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="" />
+		<rm:url href="" />
+		<rm:nrid></rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18456829</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>アジャイル開発の本質理解とグローバル人材育成のための PBL 教育</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704513</id>
+				<link href="http://www.jsise.org/taikai/2015/" />
+		<author>
+			<name>中鉢　欣秀</name>
+		</author>
+		<summary>産業技術大学院大学（AIIT）ではenPiT の一環として，アジャイル型のソフトウェア開発方法
+論の本質理解を通し，実践的なIT 人材育成を目指す教育プログラムを展開している．ここでは，チームの自己組織化や継続的な改善等を通して，自らより良い方法を考え，失敗から学び，創造的にものづくりを行なうことができるようになる教育の場を提供する．本事例では，PBL を中心としたアジャイル開発技法修得のためのプログラム，及び，その発展としてのグローバル人材育成について紹介する．</summary>
+		<updated>2016-08-22T03:19:58Z</updated>
+		<rm:journal>第40回教育システム情報学会全国大会</rm:journal>
+		<rm:publisher></rm:publisher>
+		<rm:publicationName></rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number></rm:number>
+		<rm:startingPage></rm:startingPage>
+		<rm:endingPage></rm:endingPage>
+		<rm:publicationDate>20150900</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>4</id>
+			<name>研究論文（研究会，シンポジウム資料等）</name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid></rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://www.jsise.org/taikai/2015/" />
+		<rm:url href="" />
+		<rm:nrid></rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:attachment>
+			<rm:attachmentType></rm:attachmentType>
+						<link href="https://researchmap.jp?action=cv_download_main&amp;upload_id=109454" />
+			<id>109454</id>
+			<name>F3T-2.pdf</name>
+					</rm:attachment>
+				<rm:syncid>0</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>文法最小化を目指した日本語プログラミング言語「敷島」</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704519</id>
+				<link href="http://ci.nii.ac.jp/naid/110009988199" />
+		<author>
+			<name>大岩 元, 中鉢 欣秀</name>
+		</author>
+		<summary>日本の教育問題の根本にあるのは，情報化への対応ができていないことであるように思われる．実際，国民一人当たりの投資額は世界のトップレベルであるが，情報化の浸透度は、スイスで毎年行なわれるWorld Economic Forum の Network  Readiness という評価によれば、日本は２０位以下と評価されている．この投資効率の悪さは，情報教育が単なる利用法教育として日本では捉えられていること，またその内容は，そこから生じる不都合への場あたり的な対処法に終始でいるからであろう．21世紀の教育の高度化の観点から，情報教育の中核に位置づけるべきプログラミング教育を識字教育の一環としてとらえるべきであろう．</summary>
+		<updated>2016-06-03T08:27:37Z</updated>
+		<rm:journal>情報科学技術フォーラム講演論文集</rm:journal>
+		<rm:publisher>FIT(電子情報通信学会・情報処理学会)運営委員会</rm:publisher>
+		<rm:publicationName>情報科学技術フォーラム講演論文集</rm:publicationName>
+		<rm:volume>14</rm:volume>
+		<rm:number>3</rm:number>
+		<rm:startingPage>469</rm:startingPage>
+		<rm:endingPage>472</rm:endingPage>
+		<rm:publicationDate>20150800</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110009988199</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110009988199" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704521</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>モダンなソフトウエア開発者育成のための技術教育</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704515</id>
+				<link href="http://ci.nii.ac.jp/naid/40020581859" />
+		<author>
+			<name>中鉢 欣秀</name>
+		</author>
+		<summary>産業界におけるソフトウエア開発のスタイルは，ア ジャイル型開発が普及するなど大きく変化しつつある．大学においても，このような新しい開発スタイルに対応できるソフトウエア開発者を育成することは急務である．本研究では，モダン（現代的）な開発スタイルに適応できるソフトウエア開発者を育成する観点から，PBL型の教育プログラムにおいて取り扱うべき技術要素の選択に活用できるFMLフレームワークを提案する．このフレームワークをenPiTで実施しているカリキュラムに適用し，カリキュラム設計の手法としての有用性について論じる．</summary>
+		<updated>2016-06-03T08:28:16Z</updated>
+		<rm:journal>日本ソフトウェア科学会大会論文集</rm:journal>
+		<rm:publisher>[日本ソフトウェア科学会]</rm:publisher>
+		<rm:publicationName>日本ソフトウェア科学会大会論文集</rm:publicationName>
+		<rm:volume>31</rm:volume>
+		<rm:number></rm:number>
+		<rm:startingPage>121</rm:startingPage>
+		<rm:endingPage>125</rm:endingPage>
+		<rm:publicationDate>20140900</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>0913-5391</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>40020581859</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/40020581859" />
+		<rm:url href="" />
+		<rm:nrid>9000305624197</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704517</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>3か国の大学による国際共同開発PBL</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18453923</id>
+				<link href="http://ci.nii.ac.jp/naid/40020300196" />
+		<author>
+			<name>土屋 陽介, 中鉢 欣秀, 成田 雅彦</name>
+		</author>
+		<summary>AIITでは2008年度からグローバルPBLの取り組みを実施している．2013年度からはVietnam National University, Hanoiに加えUniversity Brunei Darussalamともロボットサービスアプリケーションを協同で開発するグローバルPBLを実施した．更に今年度度からUnitec Institute of Technologyが協力大学として加わった．本論文ではこれらの実施結果について報告する．</summary>
+		<updated>2016-05-23T08:35:43Z</updated>
+		<rm:journal>産業技術大学院大学紀要</rm:journal>
+		<rm:publisher>産業技術大学院大学</rm:publisher>
+		<rm:publicationName>産業技術大学院大学紀要</rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number>8</rm:number>
+		<rm:startingPage>115</rm:startingPage>
+		<rm:endingPage>118</rm:endingPage>
+		<rm:publicationDate>20140000</rm:publicationDate>
+					<rm:referee />
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>3</id>
+			<name>研究論文（大学，研究機関紀要）</name>
+		</rm:paperType>
+		<rm:issn>1882-4021</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>40020300196</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/40020300196" />
+		<rm:url href="" />
+		<rm:nrid>9000275841531</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18453925</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>enPiTプログラムにおける遠隔PBLとアジャイル教材開発</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18453917</id>
+				<link href="http://ci.nii.ac.jp/naid/40020300166" />
+		<author>
+			<name>中鉢 欣秀</name>
+		</author>
+		<summary>産業技術大学院大学では従来よりベトナム国家大学UETとの遠隔PBLを実施してきた．2013年度からはenPiTプログラムの一環として琉球大学との遠隔PBLを実施している．本論文では，ソフトウェア開発を行うPBLに遠隔からも円滑に参加できるようにするための，各種のクラウド型ツールについて考察し，その特徴について論じる．</summary>
+		<updated>2016-08-22T02:50:54Z</updated>
+		<rm:journal>産業技術大学院大学紀要</rm:journal>
+		<rm:publisher>産業技術大学院大学</rm:publisher>
+		<rm:publicationName>産業技術大学院大学紀要</rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number>8</rm:number>
+		<rm:startingPage>109</rm:startingPage>
+		<rm:endingPage>113</rm:endingPage>
+		<rm:publicationDate>20141200</rm:publicationDate>
+					<rm:referee />
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>3</id>
+			<name>研究論文（大学，研究機関紀要）</name>
+		</rm:paperType>
+		<rm:issn>1882-4021</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>40020300166</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/40020300166" />
+		<rm:url href="" />
+		<rm:nrid>9000275841594</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18453919</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>ロボットサービスの国際開発プロジェクトモデルにおけるアジャイル型ソフトウェア開発プロセスScrumの適用</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18456843</id>
+				<link href="http://ci.nii.ac.jp/naid/40019924373" />
+		<author>
+			<name>酒瀬川 泰孝, 中鉢 欣秀 他</name>
+		</author>
+		<summary>Globalization progresses accelarative and offshore development is increasing.  In robot service software development, it is required that engineers have to develop various requirement specifications quickly in an international development project.  However, it is also a fact that there is no effective development process of international robot service, and this fact has been a subject of the development project.  We created the new development model based on project management using the agile development with scrum which is the knowledge from software engineering.</summary>
+		<updated>2016-06-01T09:08:33Z</updated>
+		<rm:journal>産業技術大学院大学紀要</rm:journal>
+		<rm:publisher></rm:publisher>
+		<rm:publicationName></rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number>7</rm:number>
+		<rm:startingPage>59</rm:startingPage>
+		<rm:endingPage>66</rm:endingPage>
+		<rm:publicationDate>20131200</rm:publicationDate>
+					<rm:referee />
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>3</id>
+			<name>研究論文（大学，研究機関紀要）</name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid></rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="" />
+		<rm:url href="http://ci.nii.ac.jp/naid/40019924373" />
+		<rm:nrid></rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18456845</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>クラウドと仮想化技術を用いたWebアプリケーション開発演習環境</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704683</id>
+				<link href="https://researchmap.jp/ychubachi#paper" />
+		<author>
+			<name>中鉢 欣秀, 小山 裕司</name>
+		</author>
+		<summary></summary>
+		<updated>2016-06-03T08:18:23Z</updated>
+		<rm:journal>PCカンファレンス北海道2013</rm:journal>
+		<rm:publisher></rm:publisher>
+		<rm:publicationName></rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number></rm:number>
+		<rm:startingPage></rm:startingPage>
+		<rm:endingPage></rm:endingPage>
+		<rm:publicationDate>20131103</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>1</id>
+			<name>研究論文（学術雑誌）</name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid></rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="" />
+		<rm:url href="" />
+		<rm:nrid></rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>0</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>ビジネスアプリケーション分野における実践型PBLプログラム</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704523</id>
+				<link href="http://ci.nii.ac.jp/naid/40020579569" />
+		<author>
+			<name>酒森 潔, 中鉢 欣秀, 川田 誠一</name>
+		</author>
+		<summary></summary>
+		<updated>2016-06-03T07:56:27Z</updated>
+		<rm:journal>日本ソフトウェア科学会大会論文集</rm:journal>
+		<rm:publisher>[日本ソフトウェア科学会]</rm:publisher>
+		<rm:publicationName>日本ソフトウェア科学会大会論文集</rm:publicationName>
+		<rm:volume>30</rm:volume>
+		<rm:number></rm:number>
+		<rm:startingPage>295</rm:startingPage>
+		<rm:endingPage>300</rm:endingPage>
+		<rm:publicationDate>20130910</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>0913-5391</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>40020579569</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/40020579569" />
+		<rm:url href="" />
+		<rm:nrid>9000304612896</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704525</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>ぺた語義：コラボレイティブ・マネジメント方式による創造的IT技術者育成</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704505</id>
+				<link href="http://ci.nii.ac.jp/naid/40019690186" />
+		<author>
+			<name>松澤 芳昭, 中鉢欣秀, 大岩 元</name>
+		</author>
+		<summary>コラボレイティブ・マネジメント型情報教育（通称：コラマネ）は，慶應義塾大学湘南藤沢キャンパス（SFC）で実践されてきたIT 技術者育成の1つの試みである．大学生34名と企業人のプロジェクトマネージャ（PM） が情報システム開発を行うPBL（ProjectBasedLearning）形式の授業である．2005 年度に始まったこの試みは，大学に承認され，産業界の支援も継続していただくことができ，本年度で8 年目を迎えることができた．この間，のべ約120 名の学生，38 名の企業人PM の貢献をいただき，38 のプロジェクトが実施された．本稿では，論文未収録のエピソードや最近の展開などを盛り込みつつ，改めてこの教育の紹介を行う．</summary>
+		<updated>2016-06-03T07:47:03Z</updated>
+		<rm:journal>情報処理</rm:journal>
+		<rm:publisher>情報処理学会 ; 1960-</rm:publisher>
+		<rm:publicationName>情報処理</rm:publicationName>
+		<rm:volume>54</rm:volume>
+		<rm:number>6</rm:number>
+		<rm:startingPage>622</rm:startingPage>
+		<rm:endingPage>625</rm:endingPage>
+		<rm:publicationDate>20130515</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>0447-8053</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>40019690186</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/40019690186" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704507</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>2411 学生を対象としたScrum型ソフトウェア開発教育の実践に関する考察(一般セッション)</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704527</id>
+				<link href="http://ci.nii.ac.jp/naid/110009832598" />
+		<author>
+			<name>須澤 秀人, 川木 富美子, 酒瀬川 泰孝, 木崎 悟, 土屋 陽介, 酒森 潔, 中鉢 欣秀</name>
+		</author>
+		<summary>Scrumは近年注目されているAgile型のソフトウェア開発プロセスであり,大学生が実践的なソフトウェア開発スキルとして身につけておくべき方法論である.本研究では開発スキルやレベルに大きな差異のある大学生に対してScrumを教育し,その効果について検証した.特に,社会人に対する同種の開発プロセスを教育する場合との差異を中心に教育手法に関する課題や今後への提言を行う.</summary>
+		<updated>2016-06-03T07:56:31Z</updated>
+		<rm:journal>プロジェクトマネジメント学会研究発表大会予稿集</rm:journal>
+		<rm:publisher>プロジェクトマネジメント学会</rm:publisher>
+		<rm:publicationName>プロジェクトマネジメント学会研究発表大会予稿集</rm:publicationName>
+		<rm:volume>2013</rm:volume>
+		<rm:number>0</rm:number>
+		<rm:startingPage>292</rm:startingPage>
+		<rm:endingPage>297</rm:endingPage>
+		<rm:publicationDate>20130313</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110009832598</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110009832598" />
+		<rm:url href="" />
+		<rm:nrid>9000264234464</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704529</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>社会人学生を対象とした情報系PBLのための評価モデルの提案</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704685</id>
+				<link href="http://ci.nii.ac.jp/naid/110009527294" />
+		<author>
+			<name>中鉢 欣秀, 中鉢 直宏</name>
+		</author>
+		<summary>本研究では社会人学生を対象とした PBL の成績評価モデルとしてのルーブリックを構築することを目指し，成績評価の実データをテキスト・マイニングすることで特徴的な評価項目を抽出する．形態素解析と基礎的な統計処理により PBL における教員からの評価の視点の全体的な特性を明らかにすることができたので報告する．In order to develop a rubric as an evaluation model for students in IT industries, we obtained significant evaluation items by analyzing accumulated evaluation results from PBL with a text mining method. A morphological analysis and basic statistics figured out general evaluation points by professors.</summary>
+		<updated>2016-06-03T08:18:27Z</updated>
+		<rm:journal>研究報告コンピュータと教育（CE）</rm:journal>
+		<rm:publisher></rm:publisher>
+		<rm:publicationName>研究報告コンピュータと教育（CE）</rm:publicationName>
+		<rm:volume>2013</rm:volume>
+		<rm:number>10</rm:number>
+		<rm:startingPage>1</rm:startingPage>
+		<rm:endingPage>6</rm:endingPage>
+		<rm:publicationDate>20130201</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110009527294</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110009527294" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704687</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>AIITにおけるプロジェクト型学修(PBL)のためのBacklogシステムの導入</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704533</id>
+				<link href="http://ci.nii.ac.jp/naid/110009455718" />
+		<author>
+			<name>中鉢欣秀, 小山裕司</name>
+		</author>
+		<summary>産業技術大学院大学 (以下,AIIT) では PBL による高度専門職人材の育成に取り組んでいる. AIIT の学生はほとんどが社会人であるため,円滑なプロジェクト活動を支援するグループウェアなどの整備に取り組んできた. 2012 年度より新たに Backlog システムを導入し PBL での利用を開始した.このシステムの導入および現在までの運用において得られた知見を報告する.</summary>
+		<updated>2016-06-03T07:56:40Z</updated>
+		<rm:journal>情報処理学会研究報告. IOT, [インターネットと運用技術]</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会研究報告. IOT, [インターネットと運用技術]</rm:publicationName>
+		<rm:volume>2012</rm:volume>
+		<rm:number>3</rm:number>
+		<rm:startingPage>1</rm:startingPage>
+		<rm:endingPage>3</rm:endingPage>
+		<rm:publicationDate>20120920</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>09196072</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110009455718</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110009455718" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>0</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>AIITにおけるプロジェクト型学修(PBL)のためのBacklogシステムの導入</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704531</id>
+				<link href="http://ci.nii.ac.jp/naid/110009455705" />
+		<author>
+			<name>中鉢欣秀, 小山裕司</name>
+		</author>
+		<summary>産業技術大学院大学 (以下,AIIT) では PBL による高度専門職人材の育成に取り組んでいる. AIIT の学生はほとんどが社会人であるため,円滑なプロジェクト活動を支援するグループウェアなどの整備に取り組んできた. 2012 年度より新たに Backlog システムを導入し PBL での利用を開始した.このシステムの導入および現在までの運用において得られた知見を報告する.</summary>
+		<updated>2016-06-03T07:56:35Z</updated>
+		<rm:journal>情報処理学会研究報告. EVA, [システム評価]</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会研究報告. EVA, [システム評価]</rm:publicationName>
+		<rm:volume>2012</rm:volume>
+		<rm:number>3</rm:number>
+		<rm:startingPage>1</rm:startingPage>
+		<rm:endingPage>3</rm:endingPage>
+		<rm:publicationDate>20120920</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>09196072</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110009455705</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110009455705" />
+		<rm:url href="" />
+		<rm:nrid></rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>0</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>国際PBL実施によるプロジェクトマネージャ育成環境の構築(&lt;特集&gt;プロジェクトマネジメント教育)</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704501</id>
+				<link href="http://ci.nii.ac.jp/naid/110009470629" />
+		<author>
+			<name>木崎 悟, 中鉢 欣秀</name>
+		</author>
+		<summary>本論文では,国際的に通用するプロジェクトマネージャの育成のためのPBL環境を提案する.産業技術大学院大学においては,2009年度からベトナム国家大学と共同のPBLを実施している.活動を通して,学生は海外とのシステム開発で必要なコンピテンシーを習得する.また,海外との開発プロジェクトで課題となっている「言語問題」「コミュニケーション不安」「品質管理」に関して,コミュニケーションツールの利用,ユースケース記述による的確な仕様の伝達,チケット駆動型によるリアルタイム性を重視した共同作業をPBLに適用することで解決した.</summary>
+		<updated>2016-06-03T07:56:43Z</updated>
+		<rm:journal>プロジェクトマネジメント学会誌</rm:journal>
+		<rm:publisher>プロジェクトマネジメント学会</rm:publisher>
+		<rm:publicationName>プロジェクトマネジメント学会誌</rm:publicationName>
+		<rm:volume>14</rm:volume>
+		<rm:number>2</rm:number>
+		<rm:startingPage>15</rm:startingPage>
+		<rm:endingPage>20</rm:endingPage>
+		<rm:publicationDate>20120415</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110009470629</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110009470629" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704503</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>2310 国際的PBLと国内で実施されるPBLの「見える化」による分析と考察(一般セッション)</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704535</id>
+				<link href="http://ci.nii.ac.jp/naid/110009832475" />
+		<author>
+			<name>木崎 悟, 増永 純也, 河口 友木, 土屋 陽介, 中鉢 欣秀</name>
+		</author>
+		<summary>近年,日本企業のグローバル化/オフショア開発の増加に伴い,大学でのPBLによるIT教育において,海外の大学と共同で実施するケースが増えている.産業技術大学院大学においても2009年度からベトナム国家大学と共同のPBLを実施している.2011年度はさらに慶應義塾大学で実施しているPBLでも同一の案件を扱い,国際的なPBLと国内だけで実施されるPBLとの違いを,双方のPBLともに進捗の「見える化」をすることで得られた定量データから分析し考察した.</summary>
+		<updated>2016-06-03T07:56:53Z</updated>
+		<rm:journal>プロジェクトマネジメント学会研究発表大会予稿集</rm:journal>
+		<rm:publisher>プロジェクトマネジメント学会</rm:publisher>
+		<rm:publicationName>プロジェクトマネジメント学会研究発表大会予稿集</rm:publicationName>
+		<rm:volume>2012</rm:volume>
+		<rm:number>0</rm:number>
+		<rm:startingPage>257</rm:startingPage>
+		<rm:endingPage>262</rm:endingPage>
+		<rm:publicationDate>20120314</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110009832475</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110009832475" />
+		<rm:url href="" />
+		<rm:nrid>9000264234121</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704537</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>産業技術大学院大学のICT環境の運用と課題</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704567</id>
+				<link href="http://ci.nii.ac.jp/naid/170000069959" />
+		<author>
+			<name>中鉢 欣秀, 小山 裕司, 石島 辰太郎</name>
+		</author>
+		<summary>専門職大学院において，継続的な学習機会を提供することの必要性が高まっている．本学でも多様な制度を導入しているが，それを支えるインフラストラクチャーの整備が課題となる．本発表では，それらの課題について述べる．Continued learning for professional education is needed to develop advanced engineers. In our institute, we provide various kind of educational opotunities. However, to support them by ICT based infrastructure is sever issues. In this paper, we disscuss about those issues.</summary>
+		<updated>2016-06-03T07:56:57Z</updated>
+		<rm:journal>研究報告インターネットと運用技術（IOT）</rm:journal>
+		<rm:publisher></rm:publisher>
+		<rm:publicationName>研究報告インターネットと運用技術（IOT）</rm:publicationName>
+		<rm:volume>2012</rm:volume>
+		<rm:number>11</rm:number>
+		<rm:startingPage>1</rm:startingPage>
+		<rm:endingPage>4</rm:endingPage>
+		<rm:publicationDate>20120308</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>170000069959</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/170000069959" />
+		<rm:url href="" />
+		<rm:nrid>9000287161098</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704571</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>Improvement of Collaborative Work on Software Development PBL in a Distributed Environment（査読有）</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704693</id>
+				<link href="https://researchmap.jp/ychubachi#paper" />
+		<author>
+			<name>Satoru Kizaki, Chubachi Yoshihide</name>
+		</author>
+		<summary>In this paper, we propose an effective management method. The project manager would lead a project to a successful conclusion on software development PBL in a distributed environment.  This method focuses on the realtime nature of collaborative work under the ticket-driven development.  Ticket-driven development is a development style which manages by dividing work into tasks  and assigning tickets of BTS (Bug Tracking System).  To  initiate  a  ticket  is published first. By basing on a ticket can be reduced to disagreement of communications. We have   investigated   university-industry   collaboration   project   &quot;Collaborative   Management Laboratory&quot;,  intended  for  undergraduate  students  of  Keio  University  in  the  fiscal  year  2010. The attempt  was  to  implement  a  training  course  where  both  undergraduate  students  and engineers  in  industry  collaboratively  learn  a  construction  of  information  systems  through project-based  learning  from  the  fiscal  year  2005.  The  project  was  composed of  three  to  five students  and theproject  managers from  an  IT  company.  There  were  companies  or  personal clients  that  actually  needed  the  developed  systems  in this  project.  We  aimed  for  the development  of  software  for  general  consumers.  The  project  has  aimed  at  the  information systems engineer&#039;s training by the PBL execution from the educational perspective; however, the  results  are  requested  to  be  put  out  efficiently  within  a  short  term  (about  four  months)  as the  development  period.  Therefore,  the  agile  software  development  method  was  the  first choice.  It  was  considered  effective.  In  this  project,  we  previously  used  the  agile  software development  method,  several  practices  from  the  project  was  used.  We  did  not  succeed, because this project had communication problems within the team. In the project for the fiscal year 2011, the communication between project manager and students have been improved by applying the proposed method.</summary>
+		<updated>2016-06-03T08:18:51Z</updated>
+		<rm:journal>3rd International Problem-based Learning Symposium 2012</rm:journal>
+		<rm:publisher></rm:publisher>
+		<rm:publicationName></rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number></rm:number>
+		<rm:startingPage></rm:startingPage>
+		<rm:endingPage></rm:endingPage>
+		<rm:publicationDate>20120300</rm:publicationDate>
+					<rm:referee />
+						<rm:language>en</rm:language>
+		<rm:paperType>
+			<id>1</id>
+			<name>研究論文（学術雑誌）</name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid></rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="" />
+		<rm:url href="" />
+		<rm:nrid></rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704695</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>PBLにおける協創型ソフトウェア開発モデルへのアプローチ</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18453935</id>
+				<link href="http://ci.nii.ac.jp/naid/40019589112" />
+		<author>
+			<name>中鉢 欣秀</name>
+		</author>
+		<summary>A novel software engineer education method for Project-Based Learning is proposed in this paper.  Recently, industrial business models in information technology are changing rapidly. In Japan, so-called “User vs. Vendor model” is quiet common for Japanese traditional IT companies. On the other hand, there are a lot of companies who develop their software service through the dialogue with their customer directory. Such novel model shall be called “Co-Creative Software Development: CcSD” model which derived from marketing field research. We propose a new PBL for educating the new engineers who can adapt to CcSD model.</summary>
+		<updated>2016-06-03T07:42:21Z</updated>
+		<rm:journal>産業技術大学院大学紀要</rm:journal>
+		<rm:publisher>産業技術大学院大学</rm:publisher>
+		<rm:publicationName>産業技術大学院大学紀要</rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number>6</rm:number>
+		<rm:startingPage>189</rm:startingPage>
+		<rm:endingPage>192</rm:endingPage>
+		<rm:publicationDate>20120000</rm:publicationDate>
+					<rm:referee />
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>1882-4021</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>40019589112</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/40019589112" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18453937</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>小規模ソフトウェアの効率的開発を実現するPBL教材の開発</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18453931</id>
+				<link href="http://ci.nii.ac.jp/naid/40019588995" />
+		<author>
+			<name>小山 裕司, 中鉢 欣秀</name>
+		</author>
+		<summary>We have designed a PBL teaching material to bring up professional engineers effectively.  This material simulates a business startup, which tests a hypothesis by   the process of software development which consists of planning, design, implementation, operations and advertisement for a short period of time. This paper summarizes our PBL education, design and discusses this material, and reports an experiment of tracking and checking the progress of our PBL team.</summary>
+		<updated>2016-06-03T07:42:29Z</updated>
+		<rm:journal>産業技術大学院大学紀要</rm:journal>
+		<rm:publisher>産業技術大学院大学</rm:publisher>
+		<rm:publicationName>産業技術大学院大学紀要</rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number>6</rm:number>
+		<rm:startingPage>143</rm:startingPage>
+		<rm:endingPage>146</rm:endingPage>
+		<rm:publicationDate>20120000</rm:publicationDate>
+					<rm:referee />
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>1882-4021</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>40019588995</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/40019588995" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18453933</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>ソーシャルメディアを活用したコネクション構築支援</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704697</id>
+				<link href="http://ci.nii.ac.jp/naid/110008713572" />
+		<author>
+			<name>小山 裕司, 中鉢 欣秀, 土屋 陽介</name>
+		</author>
+		<summary>産業技術大学院大学は,高度専門職を養成するための専門職大学院である.学生及び修了生は専門分野を持ち,社会で活躍している社会人である.彼らは,専門分野での専門職の相互コネクション (人脈) を構築することを希望している.著者らは,これらの活動を支援するため,既存の Facebook,Twitter,LinkedIn 等のソーシャルメディアを活用し,相互交流を取ることができる環境の整備を行い,またこれらと連携し,職歴,専門分野,活動等のポートフォリオを横断的に取り扱うことができるシステムを開発した.</summary>
+		<updated>2016-06-03T08:18:57Z</updated>
+		<rm:journal>情報処理学会研究報告. コンピュータと教育研究会報告</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会研究報告. コンピュータと教育研究会報告</rm:publicationName>
+		<rm:volume>2011</rm:volume>
+		<rm:number>3</rm:number>
+		<rm:startingPage>1</rm:startingPage>
+		<rm:endingPage>6</rm:endingPage>
+		<rm:publicationDate>20111210</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110008713572</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110008713572" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704699</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>授業配信システムの設計と開発</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704647</id>
+				<link href="http://ci.nii.ac.jp/naid/110008713571" />
+		<author>
+			<name>土屋 陽介, 小山 裕司, 中鉢 欣秀</name>
+		</author>
+		<summary>本学では,2006 年設立以降のすべての授業が収録され,授業資料等と一緒にインターネット経由で配信されている.これは (本学の約 75% を占める社会人学生のためであると同時に) 継続学修と授業の理解度を高めるために極めて効果的である.本論文では,現在まで約5年間運用してきた経験から得られたノウハウ及びこれを活かして現在準備中の次期システムの設計と開発について報告する。</summary>
+		<updated>2016-06-03T07:57:01Z</updated>
+		<rm:journal>情報処理学会研究報告. コンピュータと教育研究会報告</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会研究報告. コンピュータと教育研究会報告</rm:publicationName>
+		<rm:volume>2011</rm:volume>
+		<rm:number>2</rm:number>
+		<rm:startingPage>1</rm:startingPage>
+		<rm:endingPage>7</rm:endingPage>
+		<rm:publicationDate>20111210</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110008713571</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110008713571" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704649</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>2308 ソフトウェア開発PBLへのチケット駆動開発の適用による共同作業の改善(一般セッション)</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704659</id>
+				<link href="http://ci.nii.ac.jp/naid/110009840937" />
+		<author>
+			<name>木崎 悟, 丸山 英通, 土屋 陽介, 中鉢 欣秀</name>
+		</author>
+		<summary>本論文では,はじめに2010年度の慶應義塾大学の大学学部生を対象とした産学協同プロジェクト「コラボレイティブ・マネジメント型情報教育」で筆者(木崎)が参加したプロジェクトについて述べる.このプロジェクトでは,タスク管理やチーム内のコミュニケーションに問題があった.その経験を踏まえ,チケット駆動型によるリアルタイム性を重視した共同作業をPBLに適用することによりこれらの問題の解決を図る.</summary>
+		<updated>2016-06-03T07:57:12Z</updated>
+		<rm:journal>プロジェクトマネジメント学会研究発表大会予稿集</rm:journal>
+		<rm:publisher>プロジェクトマネジメント学会</rm:publisher>
+		<rm:publicationName>プロジェクトマネジメント学会研究発表大会予稿集</rm:publicationName>
+		<rm:volume>2011</rm:volume>
+		<rm:number>0</rm:number>
+		<rm:startingPage>186</rm:startingPage>
+		<rm:endingPage>191</rm:endingPage>
+		<rm:publicationDate>20110915</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110009840937</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110009840937" />
+		<rm:url href="" />
+		<rm:nrid>9000266744510</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704661</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>国際PBLにおける的確な仕様の伝達とチケット駆動による開発作業の効率化</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704663</id>
+				<link href="http://ci.nii.ac.jp/naid/170000067101" />
+		<author>
+			<name>木崎 悟, 成田 亮, 丸山 英通, 土屋 陽介, 成田 雅彦, 中鉢 欣秀</name>
+		</author>
+		<summary>本研究では，2010 年度の産業技術大学院大学とベトナム国家大学との共同プロジェクトについて報告する．このプロジェクトでは主に，英語によるコミュニケーション，オブジェクト指向型開発プロセス，クラウドプラットフォーム （Google App Engine） を利用したソフトウェア開発をテーマとした．この活動により，我々はグローバルなソフトウェア開発プロジェクトのマネジメント，コミュニケーション，設計等を経験した．そして，オフショア開発の課題となっている 「コミュニケーション不安」 や 「品質管理の問題」 などを解決するためのアプローチを行った．アプローチの方法は 「的確な仕様の伝達」 と 「チケット駆動による開発作業の効率化」 である．これにより，リアルに近いコミュニケーション，品質基準の明確化，的確な仕様の伝達の 3 点が課題であることが分った． </summary>
+		<updated>2016-06-03T07:57:16Z</updated>
+		<rm:journal>ソフトウェアエンジニアリングシンポジウム2011論文集</rm:journal>
+		<rm:publisher></rm:publisher>
+		<rm:publicationName>ソフトウェアエンジニアリングシンポジウム2011論文集</rm:publicationName>
+		<rm:volume>2011</rm:volume>
+		<rm:number></rm:number>
+		<rm:startingPage>1</rm:startingPage>
+		<rm:endingPage>6</rm:endingPage>
+		<rm:publicationDate>20110906</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>170000067101</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/170000067101" />
+		<rm:url href="" />
+		<rm:nrid>9000287152965</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704665</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>グローバルなソフトウェア開発におけるマネジメント手法</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704667</id>
+				<link href="http://ci.nii.ac.jp/naid/110008583140" />
+		<author>
+			<name>木崎 悟, 成田 亮, 丸山 英通, 中鉢 欣秀</name>
+		</author>
+		<summary>本研究では,グローバルなソフトウェア開発に求められるマネジメント手法を提案する.一般に,オフショア開発とはシステムインテグレータが,システム開発・運用管理などを海外の事業者や海外子会社に委託することである.受注先として中国の企業が多いが,中国の人件費の高騰,物価の上昇,さらには通貨人民元の切り上げなどから,単純なオフショア開発の魅力は急速に薄れつつある.現在,中国以外のパートナーとして注目を集めているのがベトナムである.しかし,現地の技術者の経験不足,言葉や習慣の違いから来るコミュニケーション不足により納期や品質に関するトラブルも増加傾向にある.提案するマネジメント手法は,この課題に対する解決を目的とするものである.</summary>
+		<updated>2016-06-03T07:57:21Z</updated>
+		<rm:journal>情報処理学会研究報告. ソフトウェア工学研究会報告</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会研究報告. ソフトウェア工学研究会報告</rm:publicationName>
+		<rm:volume>2011</rm:volume>
+		<rm:number>1</rm:number>
+		<rm:startingPage>1</rm:startingPage>
+		<rm:endingPage>8</rm:endingPage>
+		<rm:publicationDate>20110510</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110008583140</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110008583140" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704669</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>PBLによるソフトウェアのフレームワーク設計力の強化</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704705</id>
+				<link href="http://ci.nii.ac.jp/naid/170000088395" />
+		<author>
+			<name>平野智沙, 村山満, 土屋陽介, 中鉢欣秀, 宮浦智範</name>
+		</author>
+		<summary>開発の現場では、即戦力となる人材を増やすため、まずはフレームワークの使用方法から学習させることが多い。しかしながら、フレームワークにより生産性や品質は飛躍的に向上する反面、ソフトウェアの設計が隠蔽されるため、結合度や凝集度の操作、抽象化といった真の設計力が身につかず、長期的な技術力の低下を招いている。そこで我々は、既存のフレームワークを使うのではなく、作る過程を通して設計力を修得できるPBL(Project Based Learning)型の教育方法論を考案した。本稿では、このPBLを実施した結果を踏まえ、その効果について述べる。</summary>
+		<updated>2016-06-03T08:19:06Z</updated>
+		<rm:journal>第73回全国大会講演論文集</rm:journal>
+		<rm:publisher></rm:publisher>
+		<rm:publicationName>第73回全国大会講演論文集</rm:publicationName>
+		<rm:volume>2011</rm:volume>
+		<rm:number>1</rm:number>
+		<rm:startingPage>455</rm:startingPage>
+		<rm:endingPage>456</rm:endingPage>
+		<rm:publicationDate>20110302</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>170000088395</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/170000088395" />
+		<rm:url href="" />
+		<rm:nrid>9000287211415</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>0</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>PBLを支援するコラボレーティブツールに関する考察</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18453947</id>
+				<link href="http://ci.nii.ac.jp/naid/40020167916" />
+		<author>
+			<name>中鉢 欣秀, 小山 裕司</name>
+		</author>
+		<summary>We have been proving an infrastructure system for supporting Project Based Learning in AIIT.  This system is developed by customizing MS Project Server 207.  Students and teachers can share files and project schedules with this infrastructure.  Also, the students use this system to submit weekly reports and self-assessments.  However, there are some demands to improve this system.  In this paper, we discuss on the next version of the system in order to archive more effective collaboration environments.</summary>
+		<updated>2016-06-03T07:42:41Z</updated>
+		<rm:journal>産業技術大学院大学紀要</rm:journal>
+		<rm:publisher>産業技術大学院大学</rm:publisher>
+		<rm:publicationName>産業技術大学院大学紀要</rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number>5</rm:number>
+		<rm:startingPage>103</rm:startingPage>
+		<rm:endingPage>108</rm:endingPage>
+		<rm:publicationDate>20110000</rm:publicationDate>
+					<rm:referee />
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>1882-4021</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>40020167916</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/40020167916" />
+		<rm:url href="" />
+		<rm:nrid>9000261017073</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18453949</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>外部アカウント認証を使った本人確認付き利用者認証の試み</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18453943</id>
+				<link href="http://ci.nii.ac.jp/naid/40020167861" />
+		<author>
+			<name>小山 裕司, 中鉢 欣秀</name>
+		</author>
+		<summary>Many Web applications use a variety of user authentication mechanisms.  But some of them create several problems and limitations.  We tried to address these issues by using open authentications and introducing confirmation process using one-time token.  This paper summarizes open authentication/authorization, discusses these issues, and reports a design and an experiment of a hybrid user authentication protocol.</summary>
+		<updated>2016-06-03T07:42:56Z</updated>
+		<rm:journal>産業技術大学院大学紀要</rm:journal>
+		<rm:publisher>産業技術大学院大学</rm:publisher>
+		<rm:publicationName>産業技術大学院大学紀要</rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number>5</rm:number>
+		<rm:startingPage>75</rm:startingPage>
+		<rm:endingPage>80</rm:endingPage>
+		<rm:publicationDate>20110000</rm:publicationDate>
+					<rm:referee />
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>1882-4021</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>40020167861</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/40020167861" />
+		<rm:url href="" />
+		<rm:nrid>9000261017152</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18453945</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>Web-based groupware supporting PBL effectively（査読有）</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704713</id>
+				<link href="https://researchmap.jp/ychubachi#paper" />
+		<author>
+			<name>Yoshihide Chubachi, Yuka Kato, Yoshio Tozawa</name>
+		</author>
+		<summary></summary>
+		<updated>2016-06-03T08:19:34Z</updated>
+		<rm:journal>1st Asia-Pacific Joint PBL Conference 2010</rm:journal>
+		<rm:publisher></rm:publisher>
+		<rm:publicationName></rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number></rm:number>
+		<rm:startingPage></rm:startingPage>
+		<rm:endingPage></rm:endingPage>
+		<rm:publicationDate>20101000</rm:publicationDate>
+					<rm:referee />
+						<rm:language>en</rm:language>
+		<rm:paperType>
+			<id>1</id>
+			<name>研究論文（学術雑誌）</name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid></rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="" />
+		<rm:url href="" />
+		<rm:nrid></rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704715</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>Experience Gained through International PBL in Software Development （学生賞受賞）（査読有）</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704709</id>
+				<link href="https://researchmap.jp/ychubachi#paper" />
+		<author>
+			<name>Ryutaro Nishino, Mizuki Kojima, Osamu Oka Tomoki Okino, Toshinao Sugita, Yosuke Tsuchiya, Hiroshi Koyama, Yoshio Tozawa, Yoshihide Chubachi</name>
+		</author>
+		<summary></summary>
+		<updated>2016-06-03T08:19:29Z</updated>
+		<rm:journal>1st Asia-Pacific Joint PBL Conference 2010</rm:journal>
+		<rm:publisher></rm:publisher>
+		<rm:publicationName></rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number></rm:number>
+		<rm:startingPage></rm:startingPage>
+		<rm:endingPage></rm:endingPage>
+		<rm:publicationDate>20101000</rm:publicationDate>
+					<rm:referee />
+						<rm:language>en</rm:language>
+		<rm:paperType>
+			<id>1</id>
+			<name>研究論文（学術雑誌）</name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid></rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="" />
+		<rm:url href="" />
+		<rm:nrid></rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704711</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>O-020 GTD初心者のタスク管理を支援するタスクコンシェルジュの開発(O分野:情報システム,一般論文)</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704717</id>
+				<link href="http://ci.nii.ac.jp/naid/110008146222" />
+		<author>
+			<name>木崎 悟, 成田 亮, 丸山 英通, 長尾 雄行, 中鉢 欣秀</name>
+		</author>
+		<summary></summary>
+		<updated>2016-06-03T08:19:41Z</updated>
+		<rm:journal>情報科学技術フォーラム講演論文集</rm:journal>
+		<rm:publisher>FIT(電子情報通信学会・情報処理学会)運営委員会</rm:publisher>
+		<rm:publicationName>情報科学技術フォーラム講演論文集</rm:publicationName>
+		<rm:volume>9</rm:volume>
+		<rm:number>4</rm:number>
+		<rm:startingPage>531</rm:startingPage>
+		<rm:endingPage>532</rm:endingPage>
+		<rm:publicationDate>20100820</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110008146222</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110008146222" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704719</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>ICTを基盤とした高度専門職教育</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704721</id>
+				<link href="http://ci.nii.ac.jp/naid/170000082709" />
+		<author>
+			<name>中鉢欣秀, 小山裕司, 石島辰太郎</name>
+		</author>
+		<summary></summary>
+		<updated>2016-06-03T08:19:46Z</updated>
+		<rm:journal>情報教育シンポジウム2010論文集</rm:journal>
+		<rm:publisher></rm:publisher>
+		<rm:publicationName>情報教育シンポジウム2010論文集</rm:publicationName>
+		<rm:volume>2010</rm:volume>
+		<rm:number>6</rm:number>
+		<rm:startingPage>133</rm:startingPage>
+		<rm:endingPage>138</rm:endingPage>
+		<rm:publicationDate>20100811</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>170000082709</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/170000082709" />
+		<rm:url href="" />
+		<rm:nrid>9000287194361</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>0</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>ウインターワークショップ2010・イン・倉敷開催報告</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704489</id>
+				<link href="http://ci.nii.ac.jp/naid/110008003599" />
+		<author>
+			<name>中鉢 欣秀, 川口 真司, 肥後 芳樹, 中村 匡秀, 羽生田 栄一, 鷲崎 弘宜, 土屋 達弘, 石黒 正揮, 梅村 晃広, 森崎 修司, 岸 知二</name>
+		</author>
+		<summary>2010 年 1 月 21 日,22 日の 2 日間に倉敷市芸文館 (岡山県倉敷市) にて開催したウインターワークショップ 2010・イン・倉敷 (WW2010) の概要について報告する</summary>
+		<updated>2016-06-03T07:41:19Z</updated>
+		<rm:journal>情報処理学会研究報告. ソフトウェア工学研究会報告</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会研究報告. ソフトウェア工学研究会報告</rm:publicationName>
+		<rm:volume>2010</rm:volume>
+		<rm:number>18</rm:number>
+		<rm:startingPage>1</rm:startingPage>
+		<rm:endingPage>8</rm:endingPage>
+		<rm:publicationDate>20100525</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>09196072</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110008003599</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110008003599" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704491</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>ベトナム国家大学とのグローバルPBLから得た知見</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18453951</id>
+				<link href="http://ci.nii.ac.jp/naid/40020168817" />
+		<author>
+			<name>中鉢 欣秀, 成田 雅彦, 戸沢 義夫</name>
+		</author>
+		<summary>Recently, the demand of fostering the information engineers who can work globally is increasing.    In 2009, we had a global project-based learning in Master Program of Information Systems Architecture of  Advanced  Institute  of  Industrial  Technology  with  Vietnam  National  University,  University  of Engineering and Technology as a partner.    This paper discusses the findings from this education.</summary>
+		<updated>2016-06-03T07:43:09Z</updated>
+		<rm:journal>産業技術大学院大学紀要</rm:journal>
+		<rm:publisher>産業技術大学院大学</rm:publisher>
+		<rm:publicationName>産業技術大学院大学紀要</rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number>4</rm:number>
+		<rm:startingPage>85</rm:startingPage>
+		<rm:endingPage>88</rm:endingPage>
+		<rm:publicationDate>20100000</rm:publicationDate>
+					<rm:referee />
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>1882-4021</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>40020168817</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/40020168817" />
+		<rm:url href="" />
+		<rm:nrid>9000261015872</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18453953</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>Efforts to ensure the quality of PBL education in the graduate school of Information Technology</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704509</id>
+				<link href="https://researchmap.jp/ychubachi#paper" />
+		<author>
+			<name>Yoshio Tozawa, Yuka Kato, Yoshihide Chubachi</name>
+		</author>
+		<summary></summary>
+		<updated>2016-06-03T07:51:56Z</updated>
+		<rm:journal>Proceedings of the 2nd International Research Symposium on PBL</rm:journal>
+		<rm:publisher></rm:publisher>
+		<rm:publicationName></rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number></rm:number>
+		<rm:startingPage>1</rm:startingPage>
+		<rm:endingPage>9</rm:endingPage>
+		<rm:publicationDate>20091200</rm:publicationDate>
+					<rm:referee />
+						<rm:language>en</rm:language>
+		<rm:paperType>
+			<id>2</id>
+			<name>研究論文（国際会議プロシーディングス）</name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid></rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="" />
+		<rm:url href="" />
+		<rm:nrid></rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704511</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>N-014 Global PBL Feasibility Studyの実践検証(教育・人文科学,一般論文)</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704723</id>
+				<link href="http://ci.nii.ac.jp/naid/110008100904" />
+		<author>
+			<name>大類 優子, 成田 雅彦, 中鉢 欣秀, 土屋 陽介, 戸沢 義夫</name>
+		</author>
+		<summary></summary>
+		<updated>2016-06-03T08:20:11Z</updated>
+		<rm:journal>情報科学技術フォーラム講演論文集</rm:journal>
+		<rm:publisher>FIT(電子情報通信学会・情報処理学会)運営委員会</rm:publisher>
+		<rm:publicationName>情報科学技術フォーラム講演論文集</rm:publicationName>
+		<rm:volume>8</rm:volume>
+		<rm:number>4</rm:number>
+		<rm:startingPage>515</rm:startingPage>
+		<rm:endingPage>516</rm:endingPage>
+		<rm:publicationDate>20090820</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110008100904</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110008100904" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704725</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>Global PBL Feasibility Studyの実践と得られた知見</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704727</id>
+				<link href="http://ci.nii.ac.jp/naid/170000082680" />
+		<author>
+			<name>戸沢義夫, 成田雅彦, 中鉢欣秀, 土屋陽介</name>
+		</author>
+		<summary></summary>
+		<updated>2016-06-03T08:20:15Z</updated>
+		<rm:journal>情報教育シンポジウム2009論文集</rm:journal>
+		<rm:publisher></rm:publisher>
+		<rm:publicationName>情報教育シンポジウム2009論文集</rm:publicationName>
+		<rm:volume>2009</rm:volume>
+		<rm:number>6</rm:number>
+		<rm:startingPage>167</rm:startingPage>
+		<rm:endingPage>174</rm:endingPage>
+		<rm:publicationDate>20090812</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>170000082680</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/170000082680" />
+		<rm:url href="" />
+		<rm:nrid>9000287194290</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>0</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>ウインターワークショップ2009・イン・宮崎開催報告</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704729</id>
+				<link href="http://ci.nii.ac.jp/naid/110008003523" />
+		<author>
+			<name>福安 直樹, 小林 隆志, 林 晋平, 中鉢 欣秀, 中村 匡秀, 鹿糠 秀行, 羽生田 栄一, 鷲崎 弘宜, 阿萬 裕久</name>
+		</author>
+		<summary>2009年1月23日〜4日の2日間に渡り宮崎市にて開催したウインターワークショップ2009・イン・宮崎(WW2009)の概要について報告する.</summary>
+		<updated>2016-06-03T08:20:18Z</updated>
+		<rm:journal>情報処理学会研究報告. ソフトウェア工学研究会報告</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会研究報告. ソフトウェア工学研究会報告</rm:publicationName>
+		<rm:volume>2009</rm:volume>
+		<rm:number>20</rm:number>
+		<rm:startingPage>1</rm:startingPage>
+		<rm:endingPage>7</rm:endingPage>
+		<rm:publicationDate>20090521</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>09196072</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110007990914</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110008003523" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704731</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>グループウェア導入によるPBLの見える化</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704497</id>
+				<link href="http://ci.nii.ac.jp/naid/40016726932" />
+		<author>
+			<name>中鉢 欣秀, 土屋 陽介, 長尾 雄行</name>
+		</author>
+		<summary></summary>
+		<updated>2016-06-03T07:48:01Z</updated>
+		<rm:journal>JeLA会誌</rm:journal>
+		<rm:publisher>日本e-Learning学会</rm:publisher>
+		<rm:publicationName>JeLA会誌</rm:publicationName>
+		<rm:volume>9</rm:volume>
+		<rm:number></rm:number>
+		<rm:startingPage>129</rm:startingPage>
+		<rm:endingPage>135</rm:endingPage>
+		<rm:publicationDate>20090500</rm:publicationDate>
+					<rm:referee />
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>13490192</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>40016726932</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/40016726932" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704499</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>5ZC-2 携帯ゲームアプリケーション開発を支援するオブジェクト指向を用いたフレームワークの開発(エンタテインメントコンピューティング,学生セッション,コンピュータと人間社会)</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704733</id>
+				<link href="http://ci.nii.ac.jp/naid/110007505877" />
+		<author>
+			<name>橋山 牧人, 中鉢 欣秀, 大岩 元</name>
+		</author>
+		<summary></summary>
+		<updated>2016-06-03T08:20:23Z</updated>
+		<rm:journal>全国大会講演論文集</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>全国大会講演論文集</rm:publicationName>
+		<rm:volume>71</rm:volume>
+		<rm:number>4</rm:number>
+		<rm:startingPage>&quot;4</rm:startingPage>
+		<rm:endingPage>733&quot;-&quot;4-734&quot;</rm:endingPage>
+		<rm:publicationDate>20090310</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110007505877</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110007505877" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704735</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>PBL用情報インフラストラクチャの構築と運用</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18453965</id>
+				<link href="http://ci.nii.ac.jp/naid/40017058606" />
+		<author>
+			<name>中鉢 欣秀, 加藤 由花, 戸沢 義夫</name>
+		</author>
+		<summary>We can point out three major problems in Project-Based Learning. The problems we discuss in this 
+paper are 1) communication overheads in the group work by students, 2) diffi  culties of evaluation of 
+students’ activities in the PBL, and 3) project management costs. In order to solve these problems, we 
+have introduced a groupware named the infrastructure for PBL: iPBL. This provides several functions 
+which support the activities of the students in the PBL. We mention its concepts and usage of iPBL in 
+this paper.</summary>
+		<updated>2016-06-03T07:43:16Z</updated>
+		<rm:journal>産業技術大学院大学紀要</rm:journal>
+		<rm:publisher>産業技術大学院大学</rm:publisher>
+		<rm:publicationName>産業技術大学院大学紀要</rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number>3</rm:number>
+		<rm:startingPage>109</rm:startingPage>
+		<rm:endingPage>116</rm:endingPage>
+		<rm:publicationDate>20090000</rm:publicationDate>
+					<rm:referee />
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>18824021</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>40017058606</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/40017058606" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18453967</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>専門職大学院におけるPBL教育のグローバル化の試み</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18453961</id>
+				<link href="http://ci.nii.ac.jp/naid/40017058605" />
+		<author>
+			<name>成田 雅彦, 戸沢 義夫, 中鉢 欣秀</name>
+		</author>
+		<summary>Because business activities have been globalized, Japanese companies are always re
+quired to strengthen their global business activities, and highly talented IT personnel are also requested to have practical skills for globalization. On the other hand, PBL 
+(Project Based Learning) has been recognized as an eff ective method for education and development of highly talented IT personnel. In this paper, we consider to educate practical skills for globalization by globalizing the PBL methodology, and we have tried the short term global PBL feasibility study with College of Technology, Vietnam National University, Hanoi. We report the way to the feasibility study, how it was conducted, the evaluation, the success factors, and the perspective. Additionally, we make a short eport about our next activity based on our result.</summary>
+		<updated>2016-06-03T07:43:25Z</updated>
+		<rm:journal>産業技術大学院大学紀要</rm:journal>
+		<rm:publisher>産業技術大学院大学</rm:publisher>
+		<rm:publicationName>産業技術大学院大学紀要</rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number>3</rm:number>
+		<rm:startingPage>99</rm:startingPage>
+		<rm:endingPage>107</rm:endingPage>
+		<rm:publicationDate>20090000</rm:publicationDate>
+					<rm:referee />
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>18824021</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>40017058605</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/40017058605" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18453963</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>専門職大学院におけるPBL型教育の実践--産業技術大学院大学における事例</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18453957</id>
+				<link href="http://ci.nii.ac.jp/naid/40017058603" />
+		<author>
+			<name>加藤 由花, 中鉢 欣秀, 戸沢 義夫</name>
+		</author>
+		<summary>This paper describes the design result of a PBL (Project Based Learning) educational program and its deployment result on the course of Information System Architecture, Graduate School of Industrial Technology, Advanced Institute of Industrial Technology. The position of PBL in graduate school level education is defi ned in this paper, and by using the result, we indicate that the management of the program by the course as a whole is very important instead of the management by each project. To realize the management, we define the procedure of PBL and the evaluation process, and use a 
+management support tool (iPBL).</summary>
+		<updated>2016-06-03T07:43:33Z</updated>
+		<rm:journal>産業技術大学院大学紀要</rm:journal>
+		<rm:publisher>産業技術大学院大学</rm:publisher>
+		<rm:publicationName>産業技術大学院大学紀要</rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number>3</rm:number>
+		<rm:startingPage>83</rm:startingPage>
+		<rm:endingPage>90</rm:endingPage>
+		<rm:publicationDate>20090000</rm:publicationDate>
+					<rm:referee />
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>18824021</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>40017058603</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/40017058603" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18453959</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>JavaScript と非同期 HTTP リクエストによる共同作業支援ミドルウェアの構築</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18691205</id>
+				<link href="https://researchmap.jp/ychubachi#paper" />
+		<author>
+			<name>長尾雄行, 土屋陽介, 森本祥一, 中鉢欣秀</name>
+		</author>
+		<summary>ネットワーク環境下において協調作業を実現する試みは従来から様々なアプローチがなされているが， ファイアウォールやプロトコル制限といったセキュリティ上の制約から，今日のような多様なインター ネット接続形態から利用できるツールを構築することは難しい．よって本稿では，インターネット上で 最も汎用的なプロトコルである HTTP（Hyper Text Transfer Protocol）を用いて，協調作業の要とな る複数ユーザのマウスカーソルを Web  アプリケーションにおいて実時間で可視化する Multiple Pointers  System (MPS)  を提案する．MPS  はミドルウ ェアであり，Web  ブラウ ザ上で動作するクライアントモ ジュールと Web  サーバで稼動するサーバモジュールから成る．クライアントモジュールには JavaScript  と非同期 HTTP  リクエストのみを利用するため，端末側に追加のドライバやプラグインをインストール する必要がなく，様々なインターネット接続環境において利用可能な協調作 業用 Web アプリケーション を構築できる．本研究で実装した MPS が，リアルタイムに更新される多数のマウスカーソルを見ながら Web ページ上で共同作業ができる十分な性能を備えることを，実験により確認した．</summary>
+		<updated>2016-06-01T08:25:55Z</updated>
+		<rm:journal>産業技術大学院大学紀要</rm:journal>
+		<rm:publisher></rm:publisher>
+		<rm:publicationName></rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number>2</rm:number>
+		<rm:startingPage>165</rm:startingPage>
+		<rm:endingPage>173</rm:endingPage>
+		<rm:publicationDate>20081200</rm:publicationDate>
+					<rm:referee />
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>3</id>
+			<name>研究論文（大学，研究機関紀要）</name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid></rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="" />
+		<rm:url href="" />
+		<rm:nrid></rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>0</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>JavaScriptと非同期HTTPリクエストによる共同作業支援ミドウェアの構築</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704737</id>
+				<link href="http://ci.nii.ac.jp/naid/110007970848" />
+		<author>
+			<name>長尾 雄行, 土屋 陽介, 森本 祥一, 中鉢欣秀</name>
+		</author>
+		<summary>ネットワーク環境下において協調作業を実現する試みは従来から様々なアプローチがなされているが,ファイアウォールやプロトコル制限といったセキュリティ上の制約から,今日のような多様なインターネット接続形態から利用できるツールを構築することは難しい.よって本稿では,インターネット上で最も汎用的なプロトコルであるHTTP(Hyper Text Transfer Protocol)を用いて,協調作業の要となる複数ユーザのマウスカーソルをWebアプリケーションにおいて実時間で可視化するMultiple Pointers System(MPS)を提案する.MPSはミドルウェアであり,Webブラウザ上で動作するクライアントモジュールとWebサーバで稼動するサーバモジュールからなる.クライアントモジュールにはJavaScriptと非同期HTTPリクエストのみを利用するため,端末側に追加のドライバやプラグインをインストールする必要がなく,様々なインターネット接続環境において利用可能な協調作業用Webアプリケーションを構築できる.本研究で実装したMPSが,リアルタイムに更新される多数のマウスカーソルを見ながらWebページ上で共同作業ができる十分な性能を備えることを,実験により確認した.</summary>
+		<updated>2016-06-03T08:20:29Z</updated>
+		<rm:journal>情報処理学会論文誌. プログラミング</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会論文誌. プログラミング</rm:publicationName>
+		<rm:volume>1</rm:volume>
+		<rm:number>1</rm:number>
+		<rm:startingPage>63</rm:startingPage>
+		<rm:endingPage>63</rm:endingPage>
+		<rm:publicationDate>20080626</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>03875806</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110007970848</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110007970848" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704739</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>プロジェクト型教育(PBL)用インフラストラクチャの構築</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704741</id>
+				<link href="http://ci.nii.ac.jp/naid/110006668402" />
+		<author>
+			<name>中鉢 欣秀</name>
+		</author>
+		<summary>大学における学生教育のために、プロジェクト型教育(PBL:Project-Based Learning)を取り入れる事例が増えている.その際に,教員は全てのプロジェクトの進捗や課題管理、成果物などの状況を適宜把握して指導する必要が生じる。それには,教育機関で実施する複数のプロジェクトの全体の状況を管理できるインフラストラクチャがあるとよい.本研究では、大学におけるプログラムマネジメントを実施するための環境を試作中であるので報告する。</summary>
+		<updated>2016-06-03T08:20:36Z</updated>
+		<rm:journal>情報処理学会研究報告. コンピュータと教育研究会報告</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会研究報告. コンピュータと教育研究会報告</rm:publicationName>
+		<rm:volume>2008</rm:volume>
+		<rm:number>13</rm:number>
+		<rm:startingPage>101</rm:startingPage>
+		<rm:endingPage>105</rm:endingPage>
+		<rm:publicationDate>20080216</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>09196072</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110006668402</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110006668402" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704743</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>シナリオの図解化による業務フロー分析</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18453969</id>
+				<link href="http://ci.nii.ac.jp/naid/40016971710" />
+		<author>
+			<name>森本 祥一, 中鉢 欣秀</name>
+		</author>
+		<summary>A systematic design method which analyzes workfl ow scenarios to obtain software requirements as use case models has been proposed. This paper extends the method so that it can model not only use cases but also business processes. Moreover, we show a omparison experiment of the analysis and its quantitative results. With the results, we evaluate the advantage and the eff ects of our proposed process. The method enables requirement analyzers, software designers, and customers to smoothly communicate. The customers themselves can schematize their workflow with the method. The customers can also join and understand system design, thus they can easily decide the specifi cation of 
+developing systems.</summary>
+		<updated>2016-06-03T07:43:40Z</updated>
+		<rm:journal>産業技術大学院大学紀要</rm:journal>
+		<rm:publisher>産業技術大学院大学</rm:publisher>
+		<rm:publicationName>産業技術大学院大学紀要</rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number>2</rm:number>
+		<rm:startingPage>193</rm:startingPage>
+		<rm:endingPage>208</rm:endingPage>
+		<rm:publicationDate>20080000</rm:publicationDate>
+					<rm:referee />
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>18824021</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>40016971710</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/40016971710" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18453971</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>情報システムのアーキテクト育成のための教育とPBL</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18453973</id>
+				<link href="http://ci.nii.ac.jp/naid/110007613889" />
+		<author>
+			<name>中鉢 欣秀</name>
+		</author>
+		<summary>Effective education for Information Systems Architects (ISA) is necessary to solve various problems and issues in our information society. Recently, several professional graduated schools are funded in Japan, whose mission shall be increase the number of well-educated ISA. The problem is that the good practice for educating ISAs is still unclear. In this paper, the core competency of ISA is described and some approaches to educate ISA through PBL are mentioned.</summary>
+		<updated>2016-06-03T07:43:47Z</updated>
+		<rm:journal>産業技術大学院大学紀要</rm:journal>
+		<rm:publisher>産業技術大学院大学</rm:publisher>
+		<rm:publicationName>産業技術大学院大学紀要</rm:publicationName>
+		<rm:volume>1</rm:volume>
+		<rm:number></rm:number>
+		<rm:startingPage>1</rm:startingPage>
+		<rm:endingPage>8</rm:endingPage>
+		<rm:publicationDate>20071000</rm:publicationDate>
+					<rm:referee />
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>18824021</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110007613889</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110007613889" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18453975</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>Ajaxによるリアルタイム分散MVCアーキテクチャ</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704745</id>
+				<link href="http://ci.nii.ac.jp/naid/110006291068" />
+		<author>
+			<name>長尾 雄行, 土屋 陽介, 森本 祥一, 中鉢 欣秀</name>
+		</author>
+		<summary>従来型のWebアプリケーション開発で利用されるMVC2.0アーキテクテャではモデルからビューへのリアルタイムの更新が困難である.この問題に対する解決策として,Webブラウザからの非同期通信技術であるAjaxとLong-lived HTTPを利用することでWebサーバからWebブラウザへ更新情報をプッシュできることに着目した.本発表ではMVCアーキテクチャの構成要素であるモデル・ビュー・コントローラを複数のWebブラウザと単一のWebサーバに分散させてインターネット経由で協調動作させる「Web分散MVC(WD-MVC)」アーキテクチャを提案する.WD-MVCアーキテクチャを利用することで,リアルタイムで情報共有が可能な分散Webアプリケーションを実装できる.Webブラウザ側が満たすべき要件の洗い出しやサーバ負荷に関する評価やチューニング方法ついても考察する.</summary>
+		<updated>2016-06-03T08:20:40Z</updated>
+		<rm:journal>情報処理学会論文誌. プログラミング</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会論文誌. プログラミング</rm:publicationName>
+		<rm:volume>48</rm:volume>
+		<rm:number>10</rm:number>
+		<rm:startingPage>200</rm:startingPage>
+		<rm:endingPage>200</rm:endingPage>
+		<rm:publicationDate>20070615</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>03875806</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110006291068</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110006291068" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704747</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>情報アーキテクト育成のための専門職教育</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704749</id>
+				<link href="http://ci.nii.ac.jp/naid/110006225055" />
+		<author>
+			<name>中鉢 欣秀</name>
+		</author>
+		<summary>企業の情報化が進んでおり,企業情報システムのアーキテクチャ全般を取り扱う専門職である&quot;情報(IS:Information Systems)アーキテクト&quot;の育成が必要になっている.情報アーキテクトは複合的・階層的な企業情報システムを,粗い粒度で俯瞰して全体的な視野から捉え,かつ,細かい粒度においては情報システムの技術的な特性を理解しておかなくてはならない.専門職大学院においてそのような専門職を育成するには,PBL型教育,エンタープライズモデリング,システム開発プロセス演習が有効であることを指摘し,今後の課題について述べる.</summary>
+		<updated>2016-06-03T08:20:45Z</updated>
+		<rm:journal>情報処理学会研究報告. コンピュータと教育研究会報告</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会研究報告. コンピュータと教育研究会報告</rm:publicationName>
+		<rm:volume>2007</rm:volume>
+		<rm:number>12</rm:number>
+		<rm:startingPage>1</rm:startingPage>
+		<rm:endingPage>5</rm:endingPage>
+		<rm:publicationDate>20070216</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>09196072</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110006225055</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110006225055" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704751</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>言語天文台を設立するための言語判定フレームワークの開発</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704753</id>
+				<link href="http://ci.nii.ac.jp/naid/110004075911" />
+		<author>
+			<name>中鉢欣秀, GondriNagyJanos, WunnaKoKo, 三上 喜貴</name>
+		</author>
+		<summary>webページを収集してその使用言語を自動的に判定できる，言語トレーナーと言語アイデンティファイアーからなる言語判定フレームワークを開発した．このソフトウェアは，世界各国の言語専門家とのコラボレーションによる教師文書の収集作業を支援する．また，N-Gramを利用した言語判定コンポーネントを備え，かつ，プラグイン機能により他のアルゴリズムにも交換可能である．このフレームワークを用い，世界中のWebページにおける言語利用の多様性を調査する「言語天文台」の設立を目指しているので報告する．The language identification framework which consists of the language trainer tool and identifier tool has been developed for automatic identification of collected Web pages. It suppons world-wide collaboration of the linguistic experts to aggregate the teacher texts of multi-language samples. We designed that software as a framework which can be plugged-in various kind of identification algorithm as a software component. Currently, an N-Gram based identification component is provided as default. Using this framework, we aim to establish the Language Observatory in order to measure linguistic diversity on the Internet.</summary>
+		<updated>2016-06-03T08:20:51Z</updated>
+		<rm:journal>情報処理学会研究報告自然言語処理（NL）</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会研究報告自然言語処理（NL）</rm:publicationName>
+		<rm:volume>2006</rm:volume>
+		<rm:number>1</rm:number>
+		<rm:startingPage>49</rm:startingPage>
+		<rm:endingPage>54</rm:endingPage>
+		<rm:publicationDate>20060112</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>09196072</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110004075911</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110004075911" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704755</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>シナリオの図解化によるユースケースモデリング(ソフトウェア工学)</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18453977</id>
+				<link href="http://ci.nii.ac.jp/naid/10016598891" />
+		<author>
+			<name>中鉢 欣秀, 小林 孝弘, 松澤 芳昭, 大岩 元</name>
+		</author>
+		<summary>顧客の業務を自然言語によるシナリオでモデル化し, ここからソフトウェアの機能要求を体系的にユースケース分析できるSBVA(Scenario-Based Visual Analysis)法を提案する.従来のオブジェクト指向開発では, 顧客業務の理解のためにオブジェクト指向で業務分析し, UMLで業務モデルを記述することが一般的である.本手法では業務シナリオを用いるため, 要求分析者と顧客とのコミュニケーションが円滑になるばかりではなく, 顧客自身が業務をモデル化することも可能である.また, SBVA法は業務シナリオを分析する作業を図解の編集作業を通して視覚的に行う.ソフトウェアに必要となる機能を編集結果の図解から抽出できるため, 顧客が仕様の決定過程に参加することが容易である.</summary>
+		<updated>2016-07-01T05:49:03Z</updated>
+		<rm:journal>電子情報通信学会論文誌. D-I, 情報・システム, I-情報処理</rm:journal>
+		<rm:publisher>一般社団法人電子情報通信学会</rm:publisher>
+		<rm:publicationName>電子情報通信学会論文誌. D-I, 情報・システム, I-情報処理</rm:publicationName>
+		<rm:volume>88</rm:volume>
+		<rm:number>4</rm:number>
+		<rm:startingPage>813</rm:startingPage>
+		<rm:endingPage>828</rm:endingPage>
+		<rm:publicationDate>20050400</rm:publicationDate>
+					<rm:referee />
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>09151915</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>10016598891</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/10016598891" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:attachment>
+			<rm:attachmentType></rm:attachmentType>
+						<link href="https://researchmap.jp?action=cv_download_main&amp;upload_id=111930" />
+			<id>111930</id>
+			<name>j88-d1_4_813.pdf</name>
+					</rm:attachment>
+				<rm:syncid>18453979</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>シナリオと図解を利用するソフトウェアデザイン手法</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704757</id>
+				<link href="http://ci.nii.ac.jp/naid/10014120485" />
+		<author>
+			<name>中鉢 欣秀, 大岩 元</name>
+		</author>
+		<summary></summary>
+		<updated>2016-06-03T08:20:56Z</updated>
+		<rm:journal>ヒューマンインタフェース学会研究報告集 : human interface</rm:journal>
+		<rm:publisher></rm:publisher>
+		<rm:publicationName>ヒューマンインタフェース学会研究報告集 : human interface</rm:publicationName>
+		<rm:volume>6</rm:volume>
+		<rm:number>4</rm:number>
+		<rm:startingPage>75</rm:startingPage>
+		<rm:endingPage>76</rm:endingPage>
+		<rm:publicationDate>20041105</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>13447270</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>10014120485</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/10014120485" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704759</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>日本語要求記述に基づくプロトタイプ作成支援ツールの開発</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704763</id>
+				<link href="http://ci.nii.ac.jp/naid/110002665014" />
+		<author>
+			<name>小林 孝弘, 中鉢欣秀, 大岩 元</name>
+		</author>
+		<summary>日本語による要求記述から，システムを特徴付ける機能およびデータを提供する部分のJavaプログラムを生成することにより，プロトタイプ作成を支援するツール，Toriaezerを開発した．この要求記述とは，ユーザのシステム導入後の業務手順と，その中でのシステムに対する操作から成る「業務手順書」である．プロトタイプ作成者は，ユーザとの密な協調により，ユーザの満足する業務手順書を作成する．そしてその中で使用した言葉について実装方法を定義し，Toriaezerによりプログラムを生成する．これにより，要求に忠実なシステム本質部分のプログラムを素早く生成することが可能になる．Toriaezer is a tool which generates the Java program of the essential portion of a system from Japanese requirement description. This requirement description is an operating procedure document which describes the operating procedure after system introduction, and the operation to a system in Japanese. A prototype maker draws up an operating procedure document in harmony with a user, and defines implementation of the words used in it. By making them read into Toriaezer, the program of a system essence portion faithful to a requirement can be obtained quickly.</summary>
+		<updated>2016-06-03T08:21:01Z</updated>
+		<rm:journal>情報処理学会研究報告情報システムと社会環境（IS）</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会研究報告情報システムと社会環境（IS）</rm:publicationName>
+		<rm:volume>2004</rm:volume>
+		<rm:number>53</rm:number>
+		<rm:startingPage>19</rm:startingPage>
+		<rm:endingPage>26</rm:endingPage>
+		<rm:publicationDate>20040521</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>09196072</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110002665014</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110002665014" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704765</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>状態機械を用いるフレームワーク記述言語FwMLの設計とMVCアプリケーションへの適用</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18453981</id>
+				<link href="http://ci.nii.ac.jp/naid/110002711910" />
+		<author>
+			<name>中鉢欣秀, 岡田 健, 大岩 元</name>
+		</author>
+		<summary>ソフトウェアの実行時状態をXMLで表現し，MVC構造におけるコントローラを状態機械で記述することにより，再利用性のあるコントローラ部品を作成するための言語Framework Markup Language（FwML）および実行環境FwML Runtime Engine（FwML-RE）を開発した．本技術を用いて作成したコントローラ部品はコンポーネント・ベース開発におけるアプリケーション・フレームワークとしての性質を備えるため，本提案全体をFwML Meta-Framework（FwML-MF）と呼ぶ．本稿では，FwML-MFの設計と実装について述べる．また，2つのサンプル・アプリケーションから共用されるコントローラ部品がFwML-MFを用いて作成可能であり，アプリケーション・フレームワークとなることを示す．これをふまえ提案技術の評価を行い，コントローラ部品の再利用性，CASEツールとの連携，開発支援機能等において開発者に有用な技術であることを述べる．We propose a new language to develop reusable controller components named the Framework Markup Language (FwML) and its runtime environment named the FwML Runtime Engine (FwML-RE). The runtime status of the MVC structured software is represented as XML data structure and the controller components of the software are described as state machines. Since those reusable controller components have a feature of the framework in the context of the component based development, the whole of our proposal can be called the FwML Meta-Framework (FwML-MF). In this paper, we describe the design and implementation of the FwML-MF. Also we explain that two sample applications can reuse one set of controller components written in the FwML. This example shows that these components work as the application framework with the FwML-RE. We will evaluate this result and mention the benefits of our proposal from the viewpoints of the reusability of the controller components, the combinations of CASE tools, the supporting functions for the developers.</summary>
+		<updated>2016-05-23T08:12:15Z</updated>
+		<rm:journal>情報処理学会論文誌プログラミング（PRO）</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会論文誌プログラミング（PRO）</rm:publicationName>
+		<rm:volume>44</rm:volume>
+		<rm:number>16</rm:number>
+		<rm:startingPage>1</rm:startingPage>
+		<rm:endingPage>14</rm:endingPage>
+		<rm:publicationDate>20031200</rm:publicationDate>
+					<rm:referee />
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>1882-7802</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110002711910</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110002711910" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18453983</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>Boxed Economy Foundation Model：社会・経済のエージェントベースモデリングのためのフレームワーク</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18453989</id>
+				<link href="http://ci.nii.ac.jp/naid/110002711888" />
+		<author>
+			<name>井庭 崇, 中鉢欣秀, 松澤 芳昭, 海保 研, 武藤佳恭</name>
+		</author>
+		<summary>本論文では，エージェントベースアプローチによって，社会・経済のモデルを作成するためのフレームワークを提案する．このフレームワークによって，「複雑系」（構成要素の振舞いのルールが状況によって動的に変化するシステム）のモデルを記述し，シミュレートすることが可能となる．提案フレームワークは，概念モデル・フレームワークとシミュレーションモデル・フレームワークの2つで構成され，モデル化からシミュレーションまでの一貫した支援を行う．提案フレームワークの特徴は，エージェント間の相互作用を，財（および情報）のやりとりとして明示化する点にある．また，エージェントの行動を，エージェントとは別のモデル要素として外部化し，オブジェクトコンポジションによって付加する点にも特徴がある．本論文は，社会・経済システムをオブジェクト指向でモデル化するための1つのパターンを提示するだけでなく，モデルを作成・実行する環境もあわせて提供することで，シミュレーションを行う仕組みも実現する．In this paper, we propose a framework of agent-based models for economies and societies.This framework allows us to describe and simulate the complex system where the rules of the behavior for each elements change dynamically through out the simulation.The proposed framework is based on a set of two models.One is for building the conceptual models and the other for executing the simulation.Two models together are able to process consistently from modeling to execution.One of characteristics in the proposed framework is that interactions between agents are clearly declared as the exchange of goods (with information).Also, a behavior is defined as a different object from each agents in the model to realize flexible design by using the object-composition technique.This paper not only provides a pattern of modeling the socio-economic system by using object-oriented methodology, but also is able to analyze the state of the system using simulation by providing the environment to build the model and execute the simulation.</summary>
+		<updated>2016-05-23T08:12:22Z</updated>
+		<rm:journal>情報処理学会論文誌数理モデル化と応用（TOM）</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会論文誌数理モデル化と応用（TOM）</rm:publicationName>
+		<rm:volume>44</rm:volume>
+		<rm:number>14</rm:number>
+		<rm:startingPage>20</rm:startingPage>
+		<rm:endingPage>30</rm:endingPage>
+		<rm:publicationDate>20031100</rm:publicationDate>
+					<rm:referee />
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>1882-7780</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110002711888</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110002711888" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18453991</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>学生の履修計画を支援する Web アプリケーションシステムの開発</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704771</id>
+				<link href="http://ci.nii.ac.jp/naid/10012493764" />
+		<author>
+			<name>小林 孝弘, 石井 優毅, 高島 大記, 瀬戸山 晶子, 中鉢 欣秀, 大岩 元</name>
+		</author>
+		<summary></summary>
+		<updated>2016-06-03T08:21:20Z</updated>
+		<rm:journal>日本教育工学会大会講演論文集</rm:journal>
+		<rm:publisher></rm:publisher>
+		<rm:publicationName>日本教育工学会大会講演論文集</rm:publicationName>
+		<rm:volume>18</rm:volume>
+		<rm:number></rm:number>
+		<rm:startingPage>315</rm:startingPage>
+		<rm:endingPage>316</rm:endingPage>
+		<rm:publicationDate>20021102</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>10012493764</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/10012493764" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704773</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>Scenario-based Visual Analysis for Static and Dynamic Models in OOA</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704767</id>
+				<link href="https://researchmap.jp/ychubachi#paper" />
+		<author>
+			<name>Y. Chubachi, Y. Matsuzawa, and H. Ohiwa</name>
+		</author>
+		<summary>An analysis method named “Scenario-based Visual Anal ysis(SVA)“ is proposed for supporting the early stage of object-oriented analysis(OOA) for software development. In this method, objects, actions and relations are extracted from the scenario description as collaborators of the sys tem. Visual sequential representation of the scenario sug gest an analyst to identify object groups and action groups. These groups are to become static class diagrams, and dynamic sequence ones. A visual editor to support this method has been developed for representing extracted col laborators in a schematic form that helps an analysts’ in tuitive decision for forming a class structure in OOA. An evaluation of the method and the editor was performed for the elevator problem and a promising result has been ob tained.</summary>
+		<updated>2016-07-18T07:16:56Z</updated>
+		<rm:journal>Proceeding of the IASTED International Conference - Applied Modelling and Simulation (AMS 2002)</rm:journal>
+		<rm:publisher></rm:publisher>
+		<rm:publicationName></rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number></rm:number>
+		<rm:startingPage>495</rm:startingPage>
+		<rm:endingPage>499</rm:endingPage>
+		<rm:publicationDate>20021100</rm:publicationDate>
+					<rm:referee />
+						<rm:language>en</rm:language>
+		<rm:paperType>
+			<id>1</id>
+			<name>研究論文（学術雑誌）</name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid></rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="" />
+		<rm:url href="" />
+		<rm:nrid></rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704769</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>B-16 日本語プログラム言語「言霊」(開発技術,B.ソフトウェア)</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704775</id>
+				<link href="http://ci.nii.ac.jp/naid/110007689588" />
+		<author>
+			<name>岡田 健, 中鉢 欣秀, 鈴木 弘, 大岩 元</name>
+		</author>
+		<summary>日本語を用いてJavaバーチャルマシン(以下JavaVM)上で動作するプログラムを記述できる日本語プログラム言語を設計・実装した。JavaVMのアセンブリ言語であるバイトコードを日本語化し、アセンブラレベルの日本語開発環境を開発した。更に日本語バイトコードを改良しながら日本語プログラム言語を設計している。</summary>
+		<updated>2016-06-03T08:21:25Z</updated>
+		<rm:journal>情報科学技術フォーラム一般講演論文集</rm:journal>
+		<rm:publisher>FIT(電子情報通信学会・情報処理学会)運営委員会</rm:publisher>
+		<rm:publicationName>情報科学技術フォーラム一般講演論文集</rm:publicationName>
+		<rm:volume>2002</rm:volume>
+		<rm:number>1</rm:number>
+		<rm:startingPage>119</rm:startingPage>
+		<rm:endingPage>120</rm:endingPage>
+		<rm:publicationDate>20020913</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110007689588</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110007689588" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704777</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>オブジェクト指向技術者養成のためのカリキュラム</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704779</id>
+				<link href="http://ci.nii.ac.jp/naid/110002776899" />
+		<author>
+			<name>松澤 芳昭, 中鉢欣秀, 岡田 健, 大岩 元</name>
+		</author>
+		<summary>企業の新入社員研修等において効果的にオブジェクト指向技術者を育てるための入門教育カリキュラム「オブジェクト指向哲学」を試作した。従来の教育では、知識の伝達を目的として「オブジェクト指向とは何か」を説明することが多い。これに対して本カリキュラムは「何故オブジェクト指向を用いるのか」という議論から、問題解決の手段としてそれらをどう適用するのかに重点をおいて教育する。また、オブジェクト指向の利点のうちプログラムの「可読性の向上」に絞って教育することで、オブジェクト指向の最も基本的な考え方を確実に習得させることを主眼としている。本カリキュラムを用いて実験授業を実施し、アンケート調査を行ったところ、本カリキュラムは有用であるという感触が得られた。Object-oriented software engineers are required to understand essential views about the technology, to apply the technology to developing quality software. However, Japanese IT industries rear their engineers by training transferring the knowledge. In order to solve this, we developed a curriculum named &quot;Object-Oriented Philosophy&quot; for giving the learners underlying philosophy of object-oriented technology. A trial instruction was made for the engineers of an IT industry, and it was highly appreciated by them.</summary>
+		<updated>2016-06-03T08:21:34Z</updated>
+		<rm:journal>情報処理学会研究報告コンピュータと教育（CE）</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会研究報告コンピュータと教育（CE）</rm:publicationName>
+		<rm:volume>2002</rm:volume>
+		<rm:number>39</rm:number>
+		<rm:startingPage>1</rm:startingPage>
+		<rm:endingPage>8</rm:endingPage>
+		<rm:publicationDate>20020517</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>09196072</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110002776899</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110002776899" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704781</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>Boxed Economy Simulation Platformの仕組みと支援ツールの提案</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704787</id>
+				<link href="http://ci.nii.ac.jp/naid/110002675137" />
+		<author>
+			<name>海保 研, 浅加 浩太郎, 松澤 芳昭, 中鉢欣秀, 津屋 隆之介, 山田 悠, 井庭 崇</name>
+		</author>
+		<summary>本論文では、エージェントベースモデルによる経済シミュレーションの作成・実行・分析を支援するプラットフォーム「Boxed Economy Simulation Platform」(BESP)の仕組みについて報告する。BESPの構造における最大の特徴は、コンポーネントフレームワークによるソフトウェア設計を導入しているという点にある。シミュレーションのモデルや実行環境をコンポーネントとして分割して定義しているため、それらを組み替えることによってユーザー独自のシミュレーションを柔軟かつ容易に構築できるのである。BESPで定義されている「モデルコンポーネント」と「プレゼンテーションコンポーネント」がイベントを通じて通信するという仕組みによって高い拡張性が実現している。また、フレームワークや外部入出力機能の提供、制御コマンド群の乖離など、作成の容易さと拡張性を高める工夫も導入されている。本論分では、実際に作成されているグラフ表示やモデル作成のためのコンポーネントや支援ツールについても紹介する。We would like to report the mechanism of &quot;Boxed Economy Simulation Platform&quot; (BESP), which is sharable basis to make, to execute, and to analyze the agent-based economic simulations. The main feature of BESP architecture is to introduce the software design with the component and the framework. The model and the environment of the simulation are defined by dividing as components, then the users can constract their simulations by combining the components:&quot;Model component&quot; and &quot;Presentation component&quot;. Moreover, the easiness and the extendibility are supported by providing a framework, external input/output function and the separations of the control commands in BESP. We also report the components and the supporting tool already made for BESP.</summary>
+		<updated>2016-06-03T08:21:50Z</updated>
+		<rm:journal>情報処理学会研究報告知能と複雑系（ICS）</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会研究報告知能と複雑系（ICS）</rm:publicationName>
+		<rm:volume>2002</rm:volume>
+		<rm:number>1</rm:number>
+		<rm:startingPage>167</rm:startingPage>
+		<rm:endingPage>174</rm:endingPage>
+		<rm:publicationDate>20020109</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>09196072</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110002675137</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110002675137" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704789</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>ナレッジマネージメントと学習する組織(HITOCC支援対象者論文)</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704791</id>
+				<link href="http://ci.nii.ac.jp/naid/40005143539" />
+		<author>
+			<name>大岩 元, 中鉢 欣秀, 石井 優毅</name>
+		</author>
+		<summary></summary>
+		<updated>2016-06-03T08:21:54Z</updated>
+		<rm:journal>Bulletin JISA</rm:journal>
+		<rm:publisher>情報サ-ビス産業協会</rm:publisher>
+		<rm:publicationName>Bulletin JISA</rm:publicationName>
+		<rm:volume></rm:volume>
+		<rm:number>62</rm:number>
+		<rm:startingPage>25</rm:startingPage>
+		<rm:endingPage>37</rm:endingPage>
+		<rm:publicationDate>20010700</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>40005143539</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/40005143539" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>0</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>Boxed Economy基礎モデルのプロトタイピング：デザインパターンによるアプローチ</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704801</id>
+				<link href="http://ci.nii.ac.jp/naid/110002675075" />
+		<author>
+			<name>中鉢欣秀, 井庭 崇, 松澤 芳昭, 浅加 浩太郎, 海保 研, 廣兼賢治, 高部 陽平</name>
+		</author>
+		<summary>エージェントベース経済シミュレーションの共有基盤である「Boxed Economyシミュレーションプラットフォーム」の構築に向け、プロトタイプ実装を行なった。実装に際し、「Boxed Economy基礎モデル」にデザインパターンを適用し、柔軟性・再利用性の高いコンポーネントフレームワークとするための設計を試みた。その結果、エージェントの動的な振舞の実現と、概念モデルと実装モデルを関係付ける手法としてデザインパターンの利用が有用であることが示された。We developed a prototype of a foundation framework named the &quot;Boxed Economy Simulation Platform&quot; which is a platform of agent-based economic simulations. Design patterns are applied to &quot;Boxed Economy Foundation Model&quot; to build a flexible and reuseful component framework. It showed that using design patterns are an effective method to implement dynamic act of agents and to connect between conceptual model and implementation model.</summary>
+		<updated>2016-06-03T08:22:26Z</updated>
+		<rm:journal>情報処理学会研究報告知能と複雑系（ICS）</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会研究報告知能と複雑系（ICS）</rm:publicationName>
+		<rm:volume>2001</rm:volume>
+		<rm:number>1</rm:number>
+		<rm:startingPage>85</rm:startingPage>
+		<rm:endingPage>90</rm:endingPage>
+		<rm:publicationDate>20010110</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>09196072</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110002675075</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110002675075" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704803</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>Boxed Economyの実現に向けて：エージェントベース経済シミュレーションのための基礎モデル</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704793</id>
+				<link href="http://ci.nii.ac.jp/naid/110002675074" />
+		<author>
+			<name>井庭 崇, 中鉢欣秀, 高部 陽平, 田中 潤一郎, 上橋賢一, 津屋 隆之介, 北野 里美, 廣兼賢治</name>
+		</author>
+		<summary>本論文では、エージェントベース経済シミュレーション研究のための共有基盤である「Boxed Economyシミュレーションプラットフォーム」の構想とその基礎モデルを提案する。最初に、Boxed Economyシミュレーションプラットフォームが複数の研究者による協同活動のための土台となることを論じ、次に、経済社会のもつ基本的な構造をオブジェクト指向分析手法により抽象化した「Boxed Economy基礎モデル」を提案する。最後に、流通機構の一部を例として、「社会集団」コンポーネントと「機能」コンポーネントの特徴を明らかにし、Boxed Economyの適用の可能性を考察する。In this paper, we propose the concept of &quot;Boxed Economy Simulation Platform&quot; and its foundation model, which is a sharable foundation for agent-based economic simulations. First, the role of &quot;Boxed Economy Simulation Platform&quot; working as a platform for researchers to form a collaborated research, is discussed Next, the report of &quot;Boxed Economy Foundation model&quot; which is a abstraction of real economic society structured by object-oriented analysis, is made. At last, we discuss about the possibility of our model for practical use, by realizing part of the model of distribution structure which is a structure of flow of items in the real society. At the same time, we present the idea of &quot;social group&quot; components and &quot;function&quot; components which weighs a lot to talk about our model.</summary>
+		<updated>2016-06-03T08:22:12Z</updated>
+		<rm:journal>情報処理学会研究報告知能と複雑系（ICS）</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会研究報告知能と複雑系（ICS）</rm:publicationName>
+		<rm:volume>2001</rm:volume>
+		<rm:number>1</rm:number>
+		<rm:startingPage>79</rm:startingPage>
+		<rm:endingPage>84</rm:endingPage>
+		<rm:publicationDate>20010110</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>09196072</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110002675074</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110002675074" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704795</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>Boxed Economy基礎モデルのプロトタイピング : デザインパターンによるアプローチ</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704809</id>
+				<link href="http://ci.nii.ac.jp/naid/110003187188" />
+		<author>
+			<name>中鉢 欣秀, 井庭 崇, 松澤 芳昭, 浅加 浩太郎, 海保 研, 廣兼 賢治, 高部 陽平</name>
+		</author>
+		<summary>エージェントベース経済シミュレーションの共有基盤である「Boxed Economyシミュレーションプラットフォーム」の構築に向け, プロトタイプ実装を行なった。実装に際し、「Boxed Economy基礎モデル」にデザインパターンを適用し、柔軟性・再利用性の高いコンポーネントフレームワークとするための設計を試みた。その結果、エージェントの動的な振舞の実現と、概念モデルと実装モデルを関係付ける手法としてデザインパターンの利用が有用であることが示された。</summary>
+		<updated>2016-06-03T08:22:35Z</updated>
+		<rm:journal>電子情報通信学会技術研究報告. AI, 人工知能と知識処理</rm:journal>
+		<rm:publisher>一般社団法人電子情報通信学会</rm:publisher>
+		<rm:publicationName>電子情報通信学会技術研究報告. AI, 人工知能と知識処理</rm:publicationName>
+		<rm:volume>100</rm:volume>
+		<rm:number>529</rm:number>
+		<rm:startingPage>85</rm:startingPage>
+		<rm:endingPage>90</rm:endingPage>
+		<rm:publicationDate>20010103</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>09135685</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110003187188</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110003187188" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704811</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>Boxed Economyの実現に向けて : エージェントベース経済シミュレーションのための基礎モデル</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704805</id>
+				<link href="http://ci.nii.ac.jp/naid/110003187187" />
+		<author>
+			<name>井庭 崇, 中鉢 欣秀, 高部 陽平, 田中 潤一郎, 上橋 賢一, 津屋 隆之介, 北野 里美, 廣兼 賢治</name>
+		</author>
+		<summary>本論文では, エージェントベース経済シミュレーション研究のための共有基盤である「Boxed Economyシミュレーションプラットフォーム」の構想とその基礎モデルを提案する。最初に、Boxed Economyシミュレーションプラットフォームが複数の研究者による協同活動のための土台となることを論じ、次に、経済社会のもつ基本的な構造をオブジェクト指向分析手法により抽象化した「Boxed Economy基礎モデル」を提案する。最後に、流通機構の一部を例として、「社会集団」コンポーネントと「機能」コンポーネントの特徴を明らかにし、Boxed Economyの適用を可能性を考察する。</summary>
+		<updated>2016-06-03T08:22:31Z</updated>
+		<rm:journal>電子情報通信学会技術研究報告. AI, 人工知能と知識処理</rm:journal>
+		<rm:publisher>一般社団法人電子情報通信学会</rm:publisher>
+		<rm:publicationName>電子情報通信学会技術研究報告. AI, 人工知能と知識処理</rm:publicationName>
+		<rm:volume>100</rm:volume>
+		<rm:number>529</rm:number>
+		<rm:startingPage>79</rm:startingPage>
+		<rm:endingPage>84</rm:endingPage>
+		<rm:publicationDate>20010103</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>09135685</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110003187187</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110003187187" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704807</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>非分かち書き日本語プログラミング言語のための字句解析</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704813</id>
+				<link href="http://ci.nii.ac.jp/naid/110002725632" />
+		<author>
+			<name>鈴木 弘, 今城 哲二, 中鉢欣秀, 大岩 元</name>
+		</author>
+		<summary>我々は，日本人のためのプログラミング言語として，日本語による文章表現を基にしたプログラミング言語を設計し実装している．普段使用している日本語のほうが従来の英語的なプログラミング言語よりも書きやすく，読みやすいという考えに基づいている．日本語は英語のように単語を空白で区切ることなく，続けて書くのが一般的である．我々が設計しているプログラミング言語も一般的な日本語に合わせ，空白で区切ることをしない言語を前提にしている．これを分かち書きしないという意味で，非分かち書き日本語プログラミング言語とする．本論文では，非分かち書き日本語プログラミング言語，すなわちセパレータのないプログラミング言語に対しての字句解析について述べる．We design new programming language for Japanese.  We think Japanese-based programming language is better than English-based programming language for Japanese.  The feature of this language is that grammar are based on Japanese and tokens are not separated by space character like a sentence in Japanese. This paper discusses a lexical analysis method for non-separated Japanese-based programming language.</summary>
+		<updated>2016-06-03T08:22:39Z</updated>
+		<rm:journal>情報処理学会論文誌プログラミング（PRO）</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会論文誌プログラミング（PRO）</rm:publicationName>
+		<rm:volume>41</rm:volume>
+		<rm:number>9</rm:number>
+		<rm:startingPage>102</rm:startingPage>
+		<rm:endingPage>102</rm:endingPage>
+		<rm:publicationDate>20001115</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>1882-7802</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110002725632</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110002725632" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704815</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>日本人のための初心者向けプログラミング教育用言語の試作</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704817</id>
+				<link href="http://ci.nii.ac.jp/naid/110006223256" />
+		<author>
+			<name>鈴木 弘, 中鉢 欣秀, 大岩 元</name>
+		</author>
+		<summary></summary>
+		<updated>2016-06-03T08:22:42Z</updated>
+		<rm:journal>全国大会講演論文集</rm:journal>
+		<rm:publisher></rm:publisher>
+		<rm:publicationName>全国大会講演論文集</rm:publicationName>
+		<rm:volume>59</rm:volume>
+		<rm:number>0</rm:number>
+		<rm:startingPage>235</rm:startingPage>
+		<rm:endingPage>236</rm:endingPage>
+		<rm:publicationDate>19990928</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn></rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110006223256</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110006223256" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704819</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>Javaによる自己表現能力の育成</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704821</id>
+				<link href="http://ci.nii.ac.jp/naid/110002776946" />
+		<author>
+			<name>斎藤俊則, 中鉢欣秀, 脇佳代子, 大岩元</name>
+		</author>
+		<summary>我々はJava言語を用いた初学者向けプログラミング講座のカリキュラムを設計した。このカリキュラムは実際のソフトウェアの開発工程に沿って設計されている。それによって学習者は学習する技術や概念が現実的にどのような場面で有効になるのかを理解・納得しながら学習を進めることができる。またそれらをコンピュータ上での問題解決のための表現技法としてとらえながら学習を進めることができる。このカリキュラムは慶應義塾大学大学院政策・メディア研究科修士課程で現在実施されている。We developed a course of programming using Java language for beginners. This course has been developed in accordance with the process of software development. Therefore it enables the learners to realize the effectiveness of techniques and concepts they learn in the real occation of software development. At the same time, the learners can learn them as a methodology of expressing themselves in a problem-solving activity using computers. This course is now put into practice in the Graduate School of Media and Governance of Keio University.</summary>
+		<updated>2016-06-03T08:22:47Z</updated>
+		<rm:journal>情報処理学会研究報告コンピュータと教育（CE）</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会研究報告コンピュータと教育（CE）</rm:publicationName>
+		<rm:volume>1998</rm:volume>
+		<rm:number>50</rm:number>
+		<rm:startingPage>7</rm:startingPage>
+		<rm:endingPage>14</rm:endingPage>
+		<rm:publicationDate>19980528</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>09196072</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110002776946</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110002776946" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704823</rm:syncid>
+	</entry>
+		<entry rm:type="paper" rm:disclose="public">
+		<title>学生から見た情報教育</title>
+		<id>https://api.researchmap.jp/opensearch/user/ychubachi?type=paper&amp;dataid=18704825</id>
+				<link href="http://ci.nii.ac.jp/naid/110002776383" />
+		<author>
+			<name>斉藤 俊則, 中鉢欣秀, 大岩 元</name>
+		</author>
+		<summary>情報化社会の到来が実感されるようになった現在、教育機関による情報教育の充実は急務となっている。慶應義塾大学湘南藤沢キャンパス(F)においては1990年のキャンパス開設以来、積極的な情報教育に対する取り組みが行われている。本論はそこに学ぶ現役の学生たちが指摘した情報教育に関する問題点と、それを踏まえて彼らが提案した改善案を報告する。Nowadays, when the information-oriented society is comming to be realized, it is seriously reqired for educational organizations to provide informatics education with good content. At Shounan Fujisawa Campus (SFC), Keio University has been positively practiced informatics education since its start of 1990. This report discribes their problems and its solution proposed by the students studying at SFC.</summary>
+		<updated>2016-06-03T08:22:54Z</updated>
+		<rm:journal>情報処理学会研究報告コンピュータと教育（CE）</rm:journal>
+		<rm:publisher>一般社団法人情報処理学会</rm:publisher>
+		<rm:publicationName>情報処理学会研究報告コンピュータと教育（CE）</rm:publicationName>
+		<rm:volume>1996</rm:volume>
+		<rm:number>52</rm:number>
+		<rm:startingPage>25</rm:startingPage>
+		<rm:endingPage>30</rm:endingPage>
+		<rm:publicationDate>19960524</rm:publicationDate>
+						<rm:language>ja</rm:language>
+		<rm:paperType>
+			<id>0</id>
+			<name></name>
+		</rm:paperType>
+		<rm:issn>09196072</rm:issn>
+		<rm:doi></rm:doi>
+		<rm:naid>110002776383</rm:naid>
+		<rm:pmid></rm:pmid>
+		<rm:permalink href="http://ci.nii.ac.jp/naid/110002776383" />
+		<rm:url href="" />
+		<rm:nrid>9000241509212</rm:nrid>
+		<rm:jglobalid></rm:jglobalid>
+				<rm:syncid>18704827</rm:syncid>
+	</entry>
+</feed>
