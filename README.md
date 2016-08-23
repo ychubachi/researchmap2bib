@@ -1,4 +1,4 @@
-[![Gem Version](https://badge.fury.io/rb/rubyzip.svg)](http://badge.fury.io/rb/rubyzip)
+[![Gem Version](https://badge.fury.io/rb/researchmap2bib.svg)](https://badge.fury.io/rb/researchmap2bib)
 [![Build Status](https://travis-ci.org/ychubachi/researchmap2bib.svg?branch=master)](https://travis-ci.org/ychubachi/researchmap2bib)
 
 # Researchmap2bib
