@@ -4,6 +4,7 @@ require "researchmap2bib/version"
 require 'zip'
 require 'rexml/document'
 require 'pp'
+require 'erb'
 
 module Researchmap2bib
   Entry = Struct.new(
