@@ -1,5 +1,13 @@
 sudo: false
 language: ruby
 rvm:
-  - 2.3.1
+- 2.3.1
 before_install: gem install bundler -v 1.12.5
+deploy:
+  provider: rubygems
+  api_key:
+    secure: ZPtVpDmD0h5YCB6Alcagz9YO5Ihg24zSVzheTwO/HUz1DY8ioQ7ZB3nL9RnYdQEs6lyKBbGPs7UEE8i+rgH18ZtKlDxvHa1Lf5b5hJ6utFtrHhFaERTpRMHVU2zRJtv6xsiIiPiA9QBwgc1UhRe7pwFTfK99t5pk5ioXKOu0o8DOtooJjOUrjKKBTauROr7CDIMyyvTKb8366vKWwPDzzG5nmNOjbM1+XHKcg7/9ekArAaIRhtbokCeGH9API9oLvKJQ+t4sGPxxcukQEKa7tqGY6CSaGsyPLulOR7DVEKE1rybFtETqWGwFHpWGSEFzxUwUqkqYgfgOLYx2sXewzMi10szMqYbG5NgAYeamtQwjD8T+cgAxIkB3Gzf8TeQ1j9cSl7tyJfs0eYSF36viKfoRQIfGGWNChVC5WL4l1lwfWOetBAk81RhhBHu/omvy1QAl6E235k+98nHhIRUVLYknPk9BFAsaKWya4LCorkehfmRPt5Apz8rzUUCA+zKwITZh+dl/5hZJHRCL67HTiqMEbVReorORGaos5b22qaZcr8Idlu2/udk4EwQ5hfLWMFqyIkb95wmR++Sm48hUFa0nKAmUQ1ALxCISt8qFTSeH2LdMb0LKM5s/X8itZHtQCPC76C/O6nG+0AMTC1hp3GSPVPjgIAzxNeT7xFDTnDA=
+  gem: researchmap2bib
+  on:
+    tags: true
+    repo: ychubachi/researchmap2bib
