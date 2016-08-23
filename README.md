@@ -24,7 +24,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```bash
+resarchmap2bib researcher.zip
+```
 
 ## Development
 
