@@ -1,5 +1,6 @@
 # coding: utf-8
 require "researchmap2bib/version"
+require 'researchmap2bib/utils'
 
 require 'zip'
 require 'rexml/document'
@@ -15,6 +16,8 @@ module Researchmap2bib
   )
 
   class ResearchmapReader
+    include Utils
+    
     def read_researchmap(file_name)
       entries = Zip::File.open(file_name) do |zip_file|
         entry = zip_file.glob('*\/paper.xml').first
@@ -121,10 +124,6 @@ EOS
       end
       erb = ERB.new(record)
       erb.result(binding)
-    end
-
-    def to_hankaku(str)
-      str.tr('０-９ａ-ｚＡ-Ｚ，、　', '0-9a-zA-Z,, ')
     end
 
     def year_month(date)

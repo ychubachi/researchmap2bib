@@ -56,14 +56,6 @@ XML
     @s.write_bibliography_entry(e)
   end
 
-  def test_to_hankaku
-    assert_equal '1234', @s.to_hankaku('１２３４')
-    assert_equal 'abc', @s.to_hankaku('ａｂｃ')
-    assert_equal ',', @s.to_hankaku('，')
-    assert_equal ',', @s.to_hankaku('、')
-    assert_equal ' ', @s.to_hankaku('　')
-  end
-
   def test_concatenate_authors
     assert_equal 'First Last', @s.concatenate_authors('First Last')
     assert_equal 'First1 Last1 and First2 Last2',
