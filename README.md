@@ -5,9 +5,11 @@
 
 A script to a generate LaTeX (BibTeX) bibliography file of your published papers list stored in the [researchmap](https://researchmap.jp/) database.
 
-researchapのデータベースに登録された論文一覧からLaTeX（BibTeX）のbibliographyファイルを作成するスクリプトです．
+[researchmap](https://researchmap.jp/)のデータベースに登録された論文一覧からLaTeX（BibTeX）のbibliographyファイルを作成するスクリプトです．
 
 ## Usage
+
+[researchmap](https://researchmap.jp/)にログインしてXML形式で業績をダウンロードしてください．zipファイルが1つダウンロードされます．このファイル名がresearcher.zipだとするとき，次のコマンドでbibliographyファイルが生成できます．
 
 ```bash
 resarchmap2bib generate researcher.zip
