@@ -1,6 +1,7 @@
 # coding: utf-8
 require "researchmap2bib/version"
 require 'researchmap2bib/utils'
+require 'researchmap2bib/unique_id'
 
 require 'zip'
 require 'rexml/document'
@@ -18,6 +19,7 @@ module Researchmap2bib
 
   class ResearchmapReader
     include Utils
+    include UniqueId
     
     def read_researchmap(file_name)
       entries = Zip::File.open(file_name) do |zip_file|
@@ -65,12 +67,14 @@ module Researchmap2bib
 # 4:研究論文(研究会,シンポジウム資料等)、5:研究論文(その他学術会議資料等)
     def write_bibliography_entry(entry)
       key = generate_key(entry.author, entry.publicationDate)
+      id = unique_id(key)
+
       year, month = year_month(entry.publicationDate)
       month = month.to_i
       case entry.paperType.to_i
       when 1, 3 then
         record = <<EOS
-@Article{<%= key %>,
+@Article{<%= id %>,
   author = 	 {<%= entry.author %>},
   title = 	 {<%= entry.title %>},
   journal = 	 {<%= entry.journal %>},
@@ -96,7 +100,7 @@ EOS
         end
       else
         record = <<EOS
-@InProceedings{<%= key %>,
+@InProceedings{<%= id %>,
   author    = {<%= entry.author %>},
   title     = {<%= entry.title %>},
   booktitle = {<%= entry.journal %>},
