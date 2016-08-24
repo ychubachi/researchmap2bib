@@ -7,29 +7,27 @@ A script to a generate LaTeX (BibTeX) bibliography file of your published papers
 
 [researchmap](https://researchmap.jp/)のデータベースに登録された論文一覧からLaTeX（BibTeX）のbibliographyファイルを作成するスクリプトです．
 
+## Installation
+
+コマンドのインストールの方法は次のとおりです．システムのRubyにインストールする場合，sudoが必要です．
+
+```ruby
+gem install researchmap2bib
+```
+
 ## Usage
 
-[researchmap](https://researchmap.jp/)にログインしてXML形式で業績をダウンロードしてください．zipファイルが1つダウンロードされます．このファイル名がresearcher.zipだとするとき，次のコマンドでbibliographyファイルが生成できます．
+[researchmap](https://researchmap.jp/)にログインしてXML形式で業績をダウンロードしてください．zipファイルが1つダウンロードされます．このファイル名がresearcher.zipならば，次のコマンドを実行してください．
 
 ```bash
 resarchmap2bib generate researcher.zip
 ```
 
-## Installation
+「researcher.bib」と「sample.tex」ができますのでご利用ください．
 
-Add this line to your application's Gemfile:
+sample.texは確認用のLaTeXファイルです．uplatex用のクラスファイルが設定してありますので，ご自身の環境にあわせて変更してください．
 
-```ruby
-gem 'researchmap2bib'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install researchmap2bib
+なお，bibtexを走らせると，著者名の数が多すぎるなどのエラーになる場合があります．こちらについては手動でご修正してください．
 
 ## Development
 
