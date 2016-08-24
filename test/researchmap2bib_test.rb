@@ -57,8 +57,11 @@ XML
   end
 
   def test_generate_key
-    assert_equal 'Smith1608', @s.generate_key('John Smith, Kathy River', '20160800')
-    assert_equal 'Smith16', @s.generate_key('John Smith, Kathy River', '20160000')
-    assert_equal '山田1608', @s.generate_key('山田 太郎, 田中 花子', '20160800')
+    assert_equal 'Smith1608',
+                 @s.generate_key('John Smith, Kathy River', '20160800')
+    assert_equal 'Smith16',
+                 @s.generate_key('John Smith, Kathy River', '20160000')
+    assert_equal '山田1608',
+                 @s.generate_key('山田 太郎, 田中 花子', '20160800')
   end
 end
