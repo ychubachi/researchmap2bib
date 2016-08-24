@@ -47,11 +47,12 @@ class Researchmap2bibTest < Minitest::Test
 XML
     entry = doc.elements["entry"]
     r = @s.read_entry(entry)
-    assert_equal "#<struct Researchmap2bib::Entry id=nil, title=\"Title\", author=\"Name\", summary=\"Summary\", journal=\"Journal\", publisher=\"Publisher\", publicationName=\"PublicationName\", volume=\"31\", number=nil, startingPage=\"121\", endingPage=\"125\", publicationDate=\"20140900\", referee=false, language=\"ja\", paperType=\"0\">", r.to_s
+    assert_equal "#<struct Researchmap2bib::Entry id=\"Name1409\", title=\"Title\", author=\"Name\", summary=\"Summary\", journal=\"Journal\", publisher=\"Publisher\", publicationName=\"PublicationName\", volume=\"31\", number=nil, startingPage=\"121\", endingPage=\"125\", publicationDate=\"20140900\", referee=false, language=\"ja\", paperType=\"0\">", r.to_s
   end
 
   def test_write_bibliography_entry
-    e = Researchmap2bib::Entry.new(nil, 'Title', 'Author Name1, Author Name2')
+    e = Researchmap2bib::Entry.new('Name11409',
+                                   'Title', 'Author Name1, Author Name2')
     e.journal="Journal"
     e.publicationDate="20140900"
     assert_equal <<EOS, @s.write_bibliography_entry(e)

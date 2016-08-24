@@ -19,9 +19,9 @@ module Researchmap2bib
     end
 
     def family_name(author)
-      if /(^\w*) *(\w*)$/ =~ author
+      if /(^\w*) +(\w*)$/ =~ author
         $2
-      elsif /(^\S*) *(\S*)$/ =~ author
+      elsif /(^\S*) +(\S*)$/ =~ author
         $1
       else
         author

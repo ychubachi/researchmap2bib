@@ -28,15 +28,16 @@ class Researchmap2bibTest < Minitest::Test
   end
 
   def test_first_author
-    assert_equal 'John Smith', @s.first_author('John Smith')
     assert_equal 'John Smith', @s.first_author('John Smith , Kathy River')
     assert_equal '山田 太郎', @s.first_author('山田 太郎, 田中 花子')
     assert_equal '山田 太郎', @s.first_author('山田 太郎, 田中 花子, 斎藤 次郎')
+    assert_equal 'Smith', @s.first_author('Smith')
   end
 
   def test_family_name
     assert_equal 'Smith', @s.family_name('John Smith')
     assert_equal '山田', @s.family_name('山田 太郎')
     assert_equal '山田太郎', @s.family_name('山田太郎')
+    assert_equal 'Smith', @s.family_name('Smith')
   end
 end

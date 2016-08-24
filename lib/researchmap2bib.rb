@@ -53,9 +53,12 @@ module Researchmap2bib
       referee         = entry.elements["rm:referee"] ? true : false
       language        = entry.elements["rm:language"].text
       paperType       = entry.elements["rm:paperType"].elements["id"].text
-        
+
+      key = generate_key(author, publicationDate)
+      id = unique_id(key)
+
       Entry.new(
-        nil, # id
+        id, # id
         title, author, summary, journal, publisher, publicationName,
         volume, number, startingPage, endingPage, publicationDate,
         referee, language, paperType,
@@ -66,15 +69,12 @@ module Researchmap2bib
 # 、
 # 4:研究論文(研究会,シンポジウム資料等)、5:研究論文(その他学術会議資料等)
     def write_bibliography_entry(entry)
-      key = generate_key(entry.author, entry.publicationDate)
-      id = unique_id(key)
-
       year, month = year_month(entry.publicationDate)
       month = month.to_i
       case entry.paperType.to_i
       when 1, 3 then
         record = <<EOS
-@Article{<%= id %>,
+@Article{<%= entry.id %>,
   author = 	 {<%= entry.author %>},
   title = 	 {<%= entry.title %>},
   journal = 	 {<%= entry.journal %>},
@@ -100,7 +100,7 @@ EOS
         end
       else
         record = <<EOS
-@InProceedings{<%= id %>,
+@InProceedings{<%= entry.id %>,
   author    = {<%= entry.author %>},
   title     = {<%= entry.title %>},
   booktitle = {<%= entry.journal %>},
