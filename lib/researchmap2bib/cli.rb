@@ -6,12 +6,12 @@ module Researchmap2bib
     option 'newline', :type => :boolean
     desc "generate ZIP_FILE", "researchmapの業績からbibliographyを作成"
     def generate(file_name)
-      @s = Researchmap2bib::ResearchmapReader.new
+      @s = Researchmap2bib::Generator.new
       entries = @s.read_researchmap(file_name)
 
       results = Array.new
       entries.each do |entry|
-        results.push(@s.write_bibliography_entry(entry))
+        results.push(@s.make_bibliography_entry(entry))
       end
 
       # entries.each do |entry|

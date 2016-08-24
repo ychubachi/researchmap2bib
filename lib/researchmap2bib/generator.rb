@@ -56,9 +56,9 @@ module Researchmap2bib
       )
     end
 
-#     0:未設定、1:研究論文(学術雑誌)、2:研究論文(国際会議プロシーディングス)、3:研究論文(大学,研究機関紀要)
-# 、
-# 4:研究論文(研究会,シンポジウム資料等)、5:研究論文(その他学術会議資料等)
+    # 0:未設定、1:研究論文(学術雑誌)、2:研究論文(国際会議プロシーディングス)、
+    # 3:研究論文(大学,研究機関紀要)、
+    # 4:研究論文(研究会,シンポジウム資料等)、5:研究論文(その他学術会議資料等)
     def make_bibliography_entry(entry)
       year, month = year_month(entry.publicationDate)
       month = month.to_i
