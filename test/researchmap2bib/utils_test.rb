@@ -2,7 +2,7 @@
 require 'test_helper'
 require 'researchmap2bib/utils'
 
-class Researchmap2bibTest < Minitest::Test
+class UtilsTest < Minitest::Test
   def setup
     @s = Class.new do
       extend ::Researchmap2bib::Utils

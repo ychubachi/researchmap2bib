@@ -2,7 +2,7 @@
 require 'test_helper'
 require 'researchmap2bib/unique_id'
 
-class Researchmap2bibTest < Minitest::Test
+class UniqueIdTest < Minitest::Test
   def setup
     @s = Class.new do
       extend ::Researchmap2bib::UniqueId
