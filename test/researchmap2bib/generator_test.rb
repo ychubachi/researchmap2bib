@@ -59,6 +59,15 @@ XML
   year      = 2014,
   month     = 9}
 EOS
+    e.paperType = '3'
+    assert_equal <<EOS, @s.make_bibliography_entry(e)
+@Article{Name11409,
+  author  = {Author Name1, Author Name2},
+  title   = {Title},
+  journal = {Journal},
+  year    = 2014,
+  month   = 9}
+EOS
   end
 
   def test_generate_key

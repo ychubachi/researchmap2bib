@@ -66,13 +66,13 @@ module Researchmap2bib
       when 1, 3 then
         record = <<EOS
 @Article{<%= entry.id %>,
-  author = 	 {<%= entry.author %>},
-  title = 	 {<%= entry.title %>},
-  journal = 	 {<%= entry.journal %>},
+  author  = {<%= entry.author %>},
+  title   = {<%= entry.title %>},
+  journal = {<%= entry.journal %>},
 EOS
-        record += '  year      = <%= year %>'
+        record += '  year    = <%= year %>'
         if month > 0
-          record += ",\n  month     = <%= month %>"
+           record += ",\n  month   = <%= month %>"
         end
         if entry.volume
           record += ",\n  volume    = <%= entry.volume %>"
