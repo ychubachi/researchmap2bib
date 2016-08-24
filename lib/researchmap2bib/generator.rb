@@ -11,6 +11,45 @@ module Researchmap2bib
   class Generator
     include Utils
     include UniqueId
+
+    def generate(file_name)
+      bibliography =  make_bibliography(file_name)
+
+      base_name = File.basename(file_name, '.zip')
+      File.write(base_name + '.bib', bibliography)
+
+      ids = list_up_id
+      template = <<EOS
+\\documentclass[uplatex]{jsarticle}
+\\begin{document}
+文献\\cite{<%= ids.join(',') %>}
+\\bibliographystyle{junsrt}
+\\bibliography{<%= base_name %>}
+\\end{document}
+EOS
+      erb = ERB.new(template)
+      sample = erb.result(binding)
+      File.write('sample.tex', sample)
+    end
+
+    def list_up_id
+      ids = Array.new
+      @entries.each do |entry|
+        ids.push(entry.id)
+      end
+      ids
+    end
+
+    def make_bibliography(file_name)
+      @entries = read_researchmap(file_name)
+
+      results = Array.new
+      @entries.each do |entry|
+        results.push(make_bibliography_entry(entry))
+      end
+
+      results.join("\n")
+    end
     
     def read_researchmap(file_name)
       entries = Zip::File.open(file_name) do |zip_file|
@@ -81,9 +120,9 @@ EOS
           record += ",\n  number    = <%= entry.number %>"
         end
         if entry.startingPage && entry.endingPage
-          record += ",\n  pages     = <%= entry.startingPage %>-<%= entry.endingPage %>"
+          record += ",\n  pages     = {<%= entry.startingPage %>-<%= entry.endingPage %>}"
         elsif entry.startingPage
-          record += ",\n  pages     = <%= entry.startingPage %> %>"
+          record += ",\n  pages     = {<%= entry.startingPage %> %>}"
         end
         record += "}\n"
         if entry.summary
@@ -107,9 +146,9 @@ EOS
           record += ",\n  number    = <%= entry.number %>"
         end
         if entry.startingPage && entry.endingPage
-          record += ",\n  pages     = <%= entry.startingPage %>-<%= entry.endingPage %>"
+          record += ",\n  pages     = {<%= entry.startingPage %>-<%= entry.endingPage %>}"
         elsif entry.startingPage
-          record += ",\n  pages     = <%= entry.startingPage %> %>"
+          record += ",\n  pages     = {<%= entry.startingPage %>}"
         end
         if entry.publisher
           record += ",\n  publisher = {<%= entry.publisher %>}"

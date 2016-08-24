@@ -6,6 +6,27 @@ class GeneratorTest < Minitest::Test
   def setup
     @s = Researchmap2bib::Generator.new
   end
+
+  def test_generate
+    @s.generate('test/ychubachi.zip')
+    assert File.exists?('ychubachi.bib')
+    assert File.exists?('sample.tex')
+    File.delete('ychubachi.bib') rescue nil
+    File.delete('sample.tex') rescue nil
+  end
+
+  def test_list_up_id
+    @s.make_bibliography('test/ychubachi.zip')
+    r = @s.list_up_id
+    assert r.count > 0
+    assert_kind_of Array, r
+  end
+
+  def test_make_bibliography
+    str = @s.make_bibliography('test/ychubachi.zip')
+    refute_nil str
+    assert str.length > 0
+  end
   
   def test_read_researchmap
     assert_nil = @s.read_researchmap('test/ychubachi.zip')
