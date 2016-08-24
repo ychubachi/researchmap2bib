@@ -1,6 +1,5 @@
 # coding: utf-8
 require 'test_helper'
-require 'researchmap2bib'
 require 'researchmap2bib/utils'
 
 class Researchmap2bibTest < Minitest::Test
