@@ -3,7 +3,7 @@
 
 # Researchmap2bib
 
-A script to a generate LaTeX (BibTeX) bibliography file of your published papers list stored in the [researchmap](https://researchmap.jp/) database.
+A script to generate LaTeX (BibTeX) bibliography file of your published papers list which is stored in the [researchmap](https://researchmap.jp/) database.
 
 [researchmap](https://researchmap.jp/)のデータベースに登録された論文一覧からLaTeX（BibTeX）のbibliographyファイルを作成するスクリプトです．
 
