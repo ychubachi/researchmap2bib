@@ -3,9 +3,15 @@
 
 # Researchmap2bib
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/researchmap2bib`. To experiment with that code, run `bin/console` for an interactive prompt.
+A script to a generate LaTeX (BibTeX) bibliography file of your published papers list stored in the [researchmap](https://researchmap.jp/) database.
 
-TODO: Delete this and the text above, and describe your gem
+researchapのデータベースに登録された論文一覧からLaTeX（BibTeX）のbibliographyファイルを作成するスクリプトです．
+
+## Usage
+
+```bash
+resarchmap2bib generate researcher.zip
+```
 
 ## Installation
 
@@ -22,12 +28,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install researchmap2bib
-
-## Usage
-
-```bash
-resarchmap2bib researcher.zip
-```
 
 ## Development
 
