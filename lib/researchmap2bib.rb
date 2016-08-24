@@ -10,6 +10,7 @@ require 'thor'
 
 module Researchmap2bib
   Entry = Struct.new(
+    :id,
     :title, :author, :summary, :journal, :publisher, :publicationName,
     :volume, :number, :startingPage, :endingPage, :publicationDate,
     :referee, :language, :paperType,
@@ -52,6 +53,7 @@ module Researchmap2bib
       paperType       = entry.elements["rm:paperType"].elements["id"].text
         
       Entry.new(
+        nil, # id
         title, author, summary, journal, publisher, publicationName,
         volume, number, startingPage, endingPage, publicationDate,
         referee, language, paperType,
@@ -150,6 +152,9 @@ EOS
       entries.each do |entry|
         results.push(@s.write_bibliography_entry(entry))
       end
+
+      # entries.each do |entry|
+      #   puts 
 
       puts options['newline'] == false ? results : results.join("\n")
     end
