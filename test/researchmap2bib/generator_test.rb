@@ -74,7 +74,7 @@ XML
     e.publicationDate="20140900"
     assert_equal <<EOS, @s.make_bibliography_entry(e)
 @InProceedings{Name11409,
-  author    = {Author Name1, Author Name2},
+  author    = {Author Name1 and Author Name2},
   title     = {Title},
   booktitle = {Journal},
   year      = 2014,
@@ -83,7 +83,7 @@ EOS
     e.paperType = '3'
     assert_equal <<EOS, @s.make_bibliography_entry(e)
 @Article{Name11409,
-  author  = {Author Name1, Author Name2},
+  author  = {Author Name1 and Author Name2},
   title   = {Title},
   journal = {Journal},
   year    = 2014,

@@ -27,8 +27,6 @@ resarchmap2bib generate researcher.zip
 
 sample.texは確認用のLaTeXファイルです．uplatex用のクラスファイルが設定してありますので，ご自身の環境にあわせて変更してください．
 
-なお，bibtexを走らせると，著者名の数が多すぎるなどのエラーになる場合があります．こちらについては手動でご修正してください．
-
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake test` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
@@ -43,4 +41,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-

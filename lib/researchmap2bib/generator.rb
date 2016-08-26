@@ -50,7 +50,7 @@ EOS
 
       results.join("\n")
     end
-    
+
     def read_researchmap(file_name)
       entries = Zip::File.open(file_name) do |zip_file|
         entry = zip_file.glob('*\/paper.xml').first
@@ -99,13 +99,16 @@ EOS
     # 3:研究論文(大学,研究機関紀要)、
     # 4:研究論文(研究会,シンポジウム資料等)、5:研究論文(その他学術会議資料等)
     def make_bibliography_entry(entry)
+      author = concatenate_authors(entry.author)
+
       year, month = year_month(entry.publicationDate)
       month = month.to_i
+
       case entry.paperType.to_i
       when 1, 3 then
         record = <<EOS
 @Article{<%= entry.id %>,
-  author  = {<%= entry.author %>},
+  author  = {<%= author %>},
   title   = {<%= entry.title %>},
   journal = {<%= entry.journal %>},
 EOS
@@ -131,7 +134,7 @@ EOS
       else
         record = <<EOS
 @InProceedings{<%= entry.id %>,
-  author    = {<%= entry.author %>},
+  author    = {<%= author %>},
   title     = {<%= entry.title %>},
   booktitle = {<%= entry.journal %>},
 EOS
